@@ -714,3 +714,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.04-18.10.11:149][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.01.04-18.10.11:166][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.01.04-18.10.12:107][103]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.04-18.12.03:837][323]LogDerivedDataCache: C:/Users/m020288j/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 file(s) with total size 0 MiB.

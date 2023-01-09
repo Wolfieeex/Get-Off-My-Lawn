@@ -81,9 +81,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
 			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -118,6 +130,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -127,12 +145,6 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -215,6 +227,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
 			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -251,6 +269,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
@@ -260,6 +284,45 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "DA6A46441B03BD6405ECE8F12F79ED7F1B7E636A",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
+			]
+		},
+		{
+			"ShaderMapHash": "82FA1B69661E3A54D3C1A73DB12FD906CAA494AB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "3414F34D28E8A39EE87574AB858EBB6A3EAC3236",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "29C64B2FCF7D80889A787B48F8602C5CDC4F807B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "419EE9E96F6EFD06A21D0F8BA7433C8F5C9FDF70",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "C145D2E6C8ED4E31B06F436B1233CC96D9412949",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
 			]
 		}
 	]

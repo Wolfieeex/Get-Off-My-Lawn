@@ -1223,3 +1223,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.10-14.01.37:083][349]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NoahsTestLevel_BuiltData.NoahsTestLevel_BuiltData
 [2023.01.10-14.01.37:332][352]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn'
 [2023.01.10-14.01.48:034][516]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
+[2023.01.10-14.23.42:436][233]LogSlate: Window 'View Changelists' being destroyed
+[2023.01.10-14.23.42:442][233]LogSlate: Window 'View Changelists' being destroyed

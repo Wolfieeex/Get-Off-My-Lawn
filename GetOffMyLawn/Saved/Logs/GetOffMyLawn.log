@@ -1203,3 +1203,23 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.10-13.56.27:108][620]LogContentValidation: Display: Validating StaticMesh /Game/Maps/NoahsTestAssets/NoahsTestLevel_enemy_path.NoahsTestLevel_enemy_path
 [2023.01.10-13.56.27:108][620]LogContentValidation: Display: Validating Material /Game/Maps/NoahsTestAssets/01_-_Default.01_-_Default
 [2023.01.10-13.56.27:108][620]LogContentValidation: Display: Validating StaticMesh /Game/Maps/NoahsTestAssets/NoahsTestLevel_entrance_gate.NoahsTestLevel_entrance_gate
+[2023.01.10-14.01.18:203][420]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn'
+[2023.01.10-14.01.20:661][420]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.10-14.01.22:354][579]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn'
+[2023.01.10-14.01.29:099][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.10-14.01.30:618][349]LogSlate: Window 'Save Content' being destroyed
+[2023.01.10-14.01.30:676][349]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn'
+[2023.01.10-14.01.36:749][349]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.10-14.01.36:763][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NoahsTestLevel" FILE="D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/NoahsTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.10-14.01.36:769][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.10-14.01.36:779][349]LogSavePackage: Moving output files for package: /Game/Maps/NoahsTestLevel
+[2023.01.10-14.01.36:779][349]LogSavePackage: Moving 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/NoahsTestLevelE01E5F314C6596090E698A804DE87ED6.tmp' to 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/NoahsTestLevel.umap'
+[2023.01.10-14.01.36:873][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NoahsTestLevel_BuiltData" FILE="D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/NoahsTestLevel_BuiltData.uasset" SILENT=true
+[2023.01.10-14.01.36:884][349]LogSavePackage: Moving output files for package: /Game/Maps/NoahsTestLevel_BuiltData
+[2023.01.10-14.01.36:884][349]LogSavePackage: Moving 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/NoahsTestLevel_BuiltData1F3C26B14881EAD6F13217888D0DA29B.tmp' to 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/NoahsTestLevel_BuiltData.uasset'
+[2023.01.10-14.01.37:077][349]LogFileHelpers: Saving map 'NoahsTestLevel' took 0.322
+[2023.01.10-14.01.37:083][349]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.10-14.01.37:083][349]LogContentValidation: Display: Validating World /Game/Maps/NoahsTestLevel.NoahsTestLevel
+[2023.01.10-14.01.37:083][349]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NoahsTestLevel_BuiltData.NoahsTestLevel_BuiltData
+[2023.01.10-14.01.37:332][352]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/UNI STUFF/YEAR 3/Collab/Get-Off-My-Lawn'
+[2023.01.10-14.01.48:034][516]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'

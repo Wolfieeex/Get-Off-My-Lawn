@@ -1827,3 +1827,1386 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.17-13.31.26:721][418]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/t017849k/Foliage/Oak1/SM_Oak1_FoliageType.SM_Oak1_FoliageType
 [2023.01.17-13.31.26:721][418]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/t017849k/Foliage/Oak2/SM_Oak2_FoliageType.SM_Oak2_FoliageType
 [2023.01.17-13.31.55:225][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.17-13.36.36:927][645]LogViewport: Scene viewport resized to 1469x597, mode Windowed.
+[2023.01.17-13.36.36:962][647]LogViewport: Scene viewport resized to 1469x619, mode Windowed.
+[2023.01.17-13.36.37:016][649]LogViewport: Scene viewport resized to 1469x679, mode Windowed.
+[2023.01.17-13.36.37:098][651]LogViewport: Scene viewport resized to 1469x721, mode Windowed.
+[2023.01.17-13.36.37:216][653]LogViewport: Scene viewport resized to 1469x754, mode Windowed.
+[2023.01.17-13.36.37:307][655]LogViewport: Scene viewport resized to 1469x767, mode Windowed.
+[2023.01.17-13.39.11:632][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.17-14.01.24:333][757]LogViewport: Scene viewport resized to 1469x760, mode Windowed.
+[2023.01.17-14.01.24:370][759]LogViewport: Scene viewport resized to 1469x720, mode Windowed.
+[2023.01.17-14.01.24:412][760]LogViewport: Scene viewport resized to 1469x632, mode Windowed.
+[2023.01.17-14.01.24:465][762]LogViewport: Scene viewport resized to 1469x534, mode Windowed.
+[2023.01.17-14.01.24:505][764]LogViewport: Scene viewport resized to 1469x487, mode Windowed.
+[2023.01.17-14.01.24:539][766]LogViewport: Scene viewport resized to 1469x461, mode Windowed.
+[2023.01.17-14.01.24:570][768]LogViewport: Scene viewport resized to 1469x452, mode Windowed.
+[2023.01.17-14.01.24:601][770]LogViewport: Scene viewport resized to 1469x444, mode Windowed.
+[2023.01.17-14.01.24:627][772]LogViewport: Scene viewport resized to 1469x440, mode Windowed.
+[2023.01.17-14.01.24:671][776]LogViewport: Scene viewport resized to 1469x436, mode Windowed.
+[2023.01.17-14.01.26:040][861]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.17-14.01.26:045][861]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0824F04775C682BF6FD5FD8C33973B64AFDDC002), compiling. 
+[2023.01.17-14.01.26:079][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: ================================================
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Total job queries 2092, among them cache hits 1637 (78.25%)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Tracking 412 distinct input hashes that result in 233 distinct outputs (56.55%)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: RAM used: 0.65 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Shaders Compiled: 275
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Jobs assigned 450, completed 450 (100.00%)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Average time worker was idle: 48.06 s
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 3.63 s
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Job execution time: average 19.41 s, max 69.61 s
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Job life time (pending + execution): average 19.55 s, max 69.61
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 221.32 s
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Jobs were issued in 212 batches (154 local, 58 distributed), average 2.12 jobs/batch (1.00 jobs/local batch. 5.10 jobs/distributed batch)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Effective parallelization: 1.42 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   24 times, average 1.05 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   46 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.96% of total time (compiled   46 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.00% of total time (compiled   37 times, average 0.85 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.00% of total time (compiled   24 times, average 1.05 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.96% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.81% of total time (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-14.01.26:082][861]LogShaderCompilers: Display: ================================================
+[2023.01.17-14.01.26:166][861]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: DB3FA01BA5506690CF700699C0845605C2CC41F5), compiling. 
+[2023.01.17-14.01.26:172][861]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 10C6A4769BF099E5567EE68937516C8391128D9D), compiling. 
+[2023.01.17-14.01.26:176][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 50B0B888920FDC60F3472180722906B8863D9965), compiling. 
+[2023.01.17-14.01.26:178][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 81C683F7BF20A6F7C2D423488D3AB8829B377DC7), compiling. 
+[2023.01.17-14.01.26:179][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C0495F717594224896BE21E9BBFC0300C057045E), compiling. 
+[2023.01.17-14.01.26:182][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 93155CAE2B35BFC477A98513B4F53ACACAD355C0), compiling. 
+[2023.01.17-14.01.26:183][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E86BA9C580BC229433AAABA84701AED62D2D653F), compiling. 
+[2023.01.17-14.01.26:184][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 492497D6C3EDFEBBDB458503A15A8F3E1C39A69F), compiling. 
+[2023.01.17-14.01.26:185][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DD8E673C8C9CC6D6F839B64C3D857E6087A618C), compiling. 
+[2023.01.17-14.01.26:188][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3614E695B9B98925E9A606D4407D7995F35B6918), compiling. 
+[2023.01.17-14.01.26:209][861]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-14.01.26:209][861]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.17-14.01.26:209][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-14.01.26:209][861]MaterialEditorStats: Shader Count: 0
+[2023.01.17-14.01.26:216][861]LogViewport: Scene viewport resized to 293x211, mode Windowed.
+[2023.01.17-14.01.26:305][863]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.17-14.01.26:305][863]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.17-14.01.26:305][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-14.01.26:305][863]MaterialEditorStats: Shader Count: 12
+[2023.01.17-14.01.27:668][930]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-14.14.42:114][ 51]LogDerivedDataCache: C:/Users/almig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.399 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-15.14.42:095][ 53]LogDerivedDataCache: C:/Users/almig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.606 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-15.19.52:656][460]LogSlate: Window 'M_TreeMaster' being destroyed
+[2023.01.17-15.19.52:677][460]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.19.52:677][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.23.03:186][224]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.17-15.23.03:186][224]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.17-15.23.03:957][296]LogContentBrowser: Deferred new asset file creation: M_ToonShader1
+[2023.01.17-15.23.03:967][296]LogContentBrowser: Creating deferred item: M_ToonShader1
+[2023.01.17-15.23.03:980][297]LogContentBrowser: Renaming the item being created (Deferred Item: M_ToonShader1).
+[2023.01.17-15.23.11:030][  5]LogContentBrowser: Attempting asset rename: M_ToonShader1 -> M_CelShader2
+[2023.01.17-15.23.11:044][  5]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3916274F8A83EBB9132BE33638B70926F23FC04C), compiling. 
+[2023.01.17-15.23.11:066][  5]LogContentBrowser: End creating deferred item M_ToonShader1
+[2023.01.17-15.23.12:667][137]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.23.12:671][137]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: BCCDC219B7952C1711654FECD3CEF0647A02A942), compiling. 
+[2023.01.17-15.23.12:686][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.23.12:788][137]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E3BC5CD1ED4E162057CAC86FC18E1A14D23934E), compiling. 
+[2023.01.17-15.23.12:794][137]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 754851995C5586B09CEC9C852FB54C6443FCB493), compiling. 
+[2023.01.17-15.23.12:797][137]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2ABE2ACC4F7537912359D7698A2D5AC596D81B71), compiling. 
+[2023.01.17-15.23.12:828][137]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.23.12:828][137]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(16)
+[2023.01.17-15.23.12:828][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-15.23.12:828][137]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.23.12:837][137]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.23.13:017][142]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.23.13:017][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Total job queries 2160, among them cache hits 1688 (78.15%)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Tracking 412 distinct input hashes that result in 233 distinct outputs (56.55%)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: RAM used: 0.65 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Shaders Compiled: 290
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Jobs assigned 458, completed 450 (98.25%)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Average time worker was idle: 48.06 s
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 3.63 s
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Job execution time: average 19.41 s, max 69.61 s
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Job life time (pending + execution): average 19.55 s, max 69.61
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 221.32 s
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Jobs were issued in 215 batches (154 local, 61 distributed), average 2.13 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Effective parallelization: 1.42 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   24 times, average 1.05 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   46 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.96% of total time (compiled   46 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.00% of total time (compiled   37 times, average 0.85 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.00% of total time (compiled   24 times, average 1.05 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.96% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.81% of total time (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.23.13:018][142]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.23.17:601][394]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.23.17:601][394]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(16)
+[2023.01.17-15.23.17:601][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-15.23.17:601][394]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.23.18:551][442]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: F5489B6CBE1DC23692B9267AF075F6EF54AB8B28), compiling. 
+[2023.01.17-15.23.18:551][442]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+
+[2023.01.17-15.23.18:553][442]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2023.01.17-15.23.46:202][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.01.17-15.23.46:203][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.015
+[2023.01.17-15.23.46:204][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/t017849k/Materials/Shaders/M_CelShader2] ([1] browsable assets)...
+[2023.01.17-15.23.46:235][751]OBJ SavePackage:     Rendered thumbnail for [Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2]
+[2023.01.17-15.23.46:235][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/t017849k/Materials/Shaders/M_CelShader2]
+[2023.01.17-15.23.46:246][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/t017849k/Materials/Shaders/M_CelShader2_Auto2
+[2023.01.17-15.23.46:246][751]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2_Auto24F65417545C107E0EE0DCDA76304A326.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/t017849k/Materials/Shaders/M_CelShader2_Auto2.uasset'
+[2023.01.17-15.23.46:246][751]LogFileHelpers: Auto-saving content packages took 0.043
+[2023.01.17-15.26.28:156][393]LogEditorTransaction: Undo Material Editor: Delete
+[2023.01.17-15.26.28:192][393]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 14265F13B86D3B1B2CE3E1DD61FEF295D52EDD45), compiling. 
+[2023.01.17-15.26.28:197][393]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D50A496A03C0B17267923B8916ACEB74CAE8A8A), compiling. 
+[2023.01.17-15.26.28:201][393]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B086A88CB28C9189BD021B69376BA3F3FA2D299A), compiling. 
+[2023.01.17-15.26.28:218][393]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.26.28:218][393]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(16)
+[2023.01.17-15.26.28:218][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-15.26.28:218][393]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Total job queries 2165, among them cache hits 1693 (78.20%)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Tracking 420 distinct input hashes that result in 239 distinct outputs (56.90%)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: RAM used: 0.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Shaders Compiled: 290
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Jobs assigned 458, completed 458 (100.00%)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Average time worker was idle: 48.06 s
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 3.63 s
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Job execution time: average 19.16 s, max 69.61 s
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Job life time (pending + execution): average 19.30 s, max 69.61
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 228.16 s
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Jobs were issued in 215 batches (154 local, 61 distributed), average 2.13 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Average processing rate: 2.01 jobs/sec
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   25 times, average 1.03 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   47 times, average 1.01 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.98% of total time (compiled   47 times, average 1.01 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.12% of total time (compiled   38 times, average 0.85 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.10% of total time (compiled   25 times, average 1.03 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.85% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.75% of total time (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.26.28:305][394]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.26.28:331][395]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.26.28:331][395]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(16)
+[2023.01.17-15.26.28:331][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-15.26.28:331][395]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.26.34:194][782]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D638DC9CC2DBFD22A2CFC182C9ABFAE2660D455), compiling. 
+[2023.01.17-15.26.34:195][782]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.26.34:196][782]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2023.01.17-15.26.34:196][782]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile ALessThanB input.
+[2023.01.17-15.26.35:144][840]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: DDC87E6B7BCF50D2257366791CCF9A420C7A7BC1), compiling. 
+[2023.01.17-15.26.35:144][840]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.26.38:119][ 25]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F90F248EB08B69E53CF13471CB535AB06DD8B2E), compiling. 
+[2023.01.17-15.26.38:120][ 25]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.26.59:397][381]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: AC73549F022B92C97F519D2C811B5AB4758A2EFA), compiling. 
+[2023.01.17-15.26.59:398][381]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If AGreaterThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.26.59:399][381]MaterialEditorStats: Error: [SM5] (Node If) Missing If AGreaterThanB input
+[2023.01.17-15.26.59:399][381]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile ALessThanB input.
+[2023.01.17-15.27.02:099][564]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B4031CD078325E7C100C78D381477FA25858DEF), compiling. 
+[2023.01.17-15.27.02:099][564]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.27.02:108][564]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2023.01.17-15.27.02:108][564]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile ALessThanB input.
+[2023.01.17-15.27.03:740][680]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: E0DA9518E2C6030BCA95653DFA64A57830BB13F5), compiling. 
+[2023.01.17-15.27.03:740][680]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.27.16:872][940]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 740D9AB8B9B1D41421730FE9257EFFC8AEB37811), compiling. 
+[2023.01.17-15.27.16:873][940]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If AGreaterThanB input
+
+[2023.01.17-15.27.16:874][940]MaterialEditorStats: Error: [SM5] (Node If) Missing If AGreaterThanB input
+[2023.01.17-15.27.19:964][207]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: C172357D9126D4A4A9B899BCAE3557F4D7500653), compiling. 
+[2023.01.17-15.27.19:964][207]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.27.19:972][207]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2023.01.17-15.27.19:972][207]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile ALessThanB input.
+[2023.01.17-15.27.44:841][520]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 366C7F262736A67074C5A354208065019D49D6E2), compiling. 
+[2023.01.17-15.27.44:842][520]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.27.48:762][771]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: C02EDF0D52ED7C41A9B2D12F1CC1F76049E1793F), compiling. 
+[2023.01.17-15.27.48:763][771]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.06:866][356]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2161B833443AAC9E6EE61F555A4B08B5DD829B4B), compiling. 
+[2023.01.17-15.28.06:867][356]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.08:617][519]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 452D18D1DCEC93540DB69CE0B198D347EA4C492E), compiling. 
+[2023.01.17-15.28.08:617][519]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.08:619][519]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: F3ADD7E65856BFD467D0D4758CFB50452D03D890), compiling. 
+[2023.01.17-15.28.08:620][519]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.27:141][ 44]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: BE05932B7BA69BBF202173E40D93189D7510114F), compiling. 
+[2023.01.17-15.28.27:142][ 44]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.29:617][206]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 354767F12666C83E988089E9F92EB36DF730071C), compiling. 
+[2023.01.17-15.28.29:617][206]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.32:473][438]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B1A75E5FD6F84DB64849A76D07F4372C7160DED), compiling. 
+[2023.01.17-15.28.32:474][438]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.33:930][546]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 317471CB42A3089AD267D5CF159F482EFF8090B5), compiling. 
+[2023.01.17-15.28.33:931][546]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.48:326][909]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 64A904ED4E3B44BAE16AC186B1924CEA7A8FA474), compiling. 
+[2023.01.17-15.28.48:326][909]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.48:328][909]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: F606409990AB2AE72BFEEE434E5AC434B809A4BB), compiling. 
+[2023.01.17-15.28.48:328][909]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.28.50:501][ 39]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 028E7928BD8F0131C8E5B9E3DC044949753A206E), compiling. 
+[2023.01.17-15.28.50:501][ 39]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.10:944][465]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0749066F1B4CCE448ADD7901A96EF38590B1F1B9), compiling. 
+[2023.01.17-15.29.10:944][465]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.10:945][465]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 373E3F48B5AA3234DA1D8011114A05380384C125), compiling. 
+[2023.01.17-15.29.10:946][465]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.14:933][718]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 60F22310E9BCB57DC2955ACB83F93906E61F4818), compiling. 
+[2023.01.17-15.29.14:934][718]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.23:136][932]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 44413F9EF45CCCA428727F1D2E4FAA6C10A914C4), compiling. 
+[2023.01.17-15.29.23:137][932]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.35:447][414]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 56F35BC9D29D064A9B858641AEE8183CD39144ED), compiling. 
+[2023.01.17-15.29.35:447][414]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.35:449][414]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4CAB3BD01E9B6C0FBBEB007FE4E3D560405488C5), compiling. 
+[2023.01.17-15.29.35:450][414]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.29.43:664][689]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 25178DF14B2F498BE11B77370FC3D567EDCD9E4B), compiling. 
+[2023.01.17-15.29.43:665][689]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.30.29:746][785]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8364634EFBCF1CB3894EA9590B529FA7A1241F77), compiling. 
+[2023.01.17-15.30.29:747][785]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.30.40:770][577]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: EEFE76C386581010AAA56E281A9337A1DD884EFA), compiling. 
+[2023.01.17-15.30.40:771][577]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.30.52:028][449]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: BBEE4796B2559A751E5C945CB51DC82E626AF3A7), compiling. 
+[2023.01.17-15.30.52:029][449]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.30.52:030][449]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DFF1865BD5B19B6A773F374B52FD317929D6573), compiling. 
+[2023.01.17-15.30.52:030][449]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.31.03:372][873]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: E7FBC34647258C5A90856EEF2F3BB58374D21856), compiling. 
+[2023.01.17-15.31.03:373][873]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.31.14:723][ 53]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: BC0037BACC4C51FB74B3DE94E843E452F4CE56D9), compiling. 
+[2023.01.17-15.31.14:723][ 53]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.31.16:314][152]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 48E856C9B9F56E623DB5393EECF7F88FBA3279A9), compiling. 
+[2023.01.17-15.31.16:315][152]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.31.18:121][277]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 77509DF9AD7A2BE42529B02D0459CD59EF65927C), compiling. 
+[2023.01.17-15.31.18:122][277]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.31.59:708][248]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: B0D662F7D8F2B7ACF1FBDD70BB8D0A2B872FDF6C), compiling. 
+[2023.01.17-15.31.59:709][248]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.31.59:710][248]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 23D756C6418E971E50E5DDE03527C69B3681B505), compiling. 
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Total job queries 2171, among them cache hits 1699 (78.26%)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Tracking 420 distinct input hashes that result in 239 distinct outputs (56.90%)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: RAM used: 0.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Shaders Compiled: 290
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Jobs assigned 458, completed 458 (100.00%)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Average time worker was idle: 48.06 s
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 3.63 s
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Job execution time: average 19.16 s, max 69.61 s
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Job life time (pending + execution): average 19.30 s, max 69.61
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 228.16 s
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Jobs were issued in 215 batches (154 local, 61 distributed), average 2.13 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Average processing rate: 2.01 jobs/sec
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   25 times, average 1.03 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   47 times, average 1.01 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.98% of total time (compiled   47 times, average 1.01 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.12% of total time (compiled   38 times, average 0.85 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.10% of total time (compiled   25 times, average 1.03 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.85% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.75% of total time (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.31.59:781][251]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.32.01:503][351]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 88EE6246C47A8A66FF074995E985E87E5DD550EC), compiling. 
+[2023.01.17-15.32.01:504][351]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.01:505][351]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C47CB9BFDDCAD373964B06D047BBA7FF608AE5B6), compiling. 
+[2023.01.17-15.32.01:507][351]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 34288E0199B1F72527BB3A377EAF4875FD2E7F92), compiling. 
+[2023.01.17-15.32.01:516][351]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: C2FFEC313F7B3ABB723C94C4E30A6F0FC8642AF7), compiling. 
+[2023.01.17-15.32.01:517][351]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.09:330][885]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 59244BDFC158944D4E78AEE4EAB92E62669D847C), compiling. 
+[2023.01.17-15.32.09:331][885]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.09:332][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 55F262424B5F8E62FAAE9A5FB35AD6BD11254064), compiling. 
+[2023.01.17-15.32.09:335][885]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: CEA403627FECB31B413F7524F71E0248790D99EB), compiling. 
+[2023.01.17-15.32.09:335][885]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.09:336][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F8317D9CECFA7759769CCD82CF82931DA536BA5A), compiling. 
+[2023.01.17-15.32.12:424][ 60]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: D409C89005315C7C6710AA5D8BC575E5B0F89E8A), compiling. 
+[2023.01.17-15.32.12:425][ 60]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.13:882][165]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: DAA691D9EEDA091F459CE00429D70007AEF5B877), compiling. 
+[2023.01.17-15.32.13:883][165]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.19:075][544]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F76897CCD37CB1A8EEE9BDC23D4134D9AFB607D), compiling. 
+[2023.01.17-15.32.19:076][544]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.20:928][670]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A0F65331FE1A66F23C3CB27BAE788E7412AD795), compiling. 
+[2023.01.17-15.32.20:929][670]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.22:276][766]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 99101555A3F5F8185E9936E64C0A7BF773CC2B2D), compiling. 
+[2023.01.17-15.32.22:276][766]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.37:809][ 51]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BA9D2BD219DAB96E37EB1CE55CE448C55DACB09), compiling. 
+[2023.01.17-15.32.37:810][ 51]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.37:811][ 51]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 752B6B7DE627F8BDB530F3FA7DD9564B8306C4EC), compiling. 
+[2023.01.17-15.32.37:814][ 51]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E769590B0CDA75BEADE994DFADEEECE5F534756A), compiling. 
+[2023.01.17-15.32.37:817][ 51]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: DE9A2D6F7A7DE2899CF80762B78D4C4F990A13B7), compiling. 
+[2023.01.17-15.32.37:817][ 51]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.32.37:818][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.17-15.33.05:416][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_125.MaterialExpressionScalarParameter_7"')'
+[2023.01.17-15.33.05:416][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_107.MaterialExpressionSceneTexture_27"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2023.01.17-15.33.05:417][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_102.MaterialExpressionSceneTexture_26"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2023.01.17-15.33.05:418][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_126.MaterialExpressionMultiply_18"')'
+[2023.01.17-15.33.05:420][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_129.MaterialExpressionVectorParameter_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2023.01.17-15.33.05:420][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_131.MaterialExpressionConstant_2"')'
+[2023.01.17-15.33.05:421][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_127.MaterialExpressionAdd_14"')'
+[2023.01.17-15.33.05:421][496]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_130.MaterialExpressionAppendVector_0"')'
+[2023.01.17-15.33.05:433][496]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: F06D684353FC66BB92DA0DF47789E654FFCA973F), compiling. 
+[2023.01.17-15.33.05:434][496]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.05:435][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EFD3A6D6896BF09CD542894AE3A60A9D479AEEF1), compiling. 
+[2023.01.17-15.33.05:436][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F597ECFE821D4925F6215C0B33684CF66F05DE2), compiling. 
+[2023.01.17-15.33.13:217][954]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 58FDC0DFF8884F97C9B0D227A8D2C10A1D31837D), compiling. 
+[2023.01.17-15.33.13:218][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.13:219][954]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CB7ACE681D935158931320500128CCB1A34C6AB3), compiling. 
+[2023.01.17-15.33.13:222][954]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 52E8572013586F98C01651CFBE9EA3DA9846D938), compiling. 
+[2023.01.17-15.33.13:223][954]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.15:217][ 67]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9ED0B398421FAAD27F198077436A21F9522BE686), compiling. 
+[2023.01.17-15.33.15:217][ 67]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.15:220][ 67]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 17DCE89689EFBB93F79034038BCEAE7C133EB60E), compiling. 
+[2023.01.17-15.33.15:220][ 67]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.21:450][430]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C5BC6F7BA97F0292E5776112D4B538BEA3BE0FA), compiling. 
+[2023.01.17-15.33.21:450][430]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.21:453][430]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0EE624AF076605B3CE5CE1F5A9F30D6D02C30E5A), compiling. 
+[2023.01.17-15.33.21:454][430]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.28:301][827]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DC0B20777449413A9C0EFABCE63A6D40AC5E2A0), compiling. 
+[2023.01.17-15.33.28:302][827]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.28:302][827]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B9DB2D8F5A5654F755C986E15791B460828DEA7E), compiling. 
+[2023.01.17-15.33.28:306][827]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: C832CB99D709E55145EF88AE2E29789DD072852B), compiling. 
+[2023.01.17-15.33.28:306][827]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.33:972][156]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7FFEC29F391D63CBD7EAB3AFB2BB87B82A2EB50E), compiling. 
+[2023.01.17-15.33.33:973][156]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.33:975][156]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DE6706B98A29830FD784E1CFA0EE989E597D928), compiling. 
+[2023.01.17-15.33.33:976][156]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.55:082][696]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 21BAB15ADD512C532B4D23177B5938153AA42ADD), compiling. 
+[2023.01.17-15.33.55:082][696]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.55:083][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F37423692D18A800B87472CC583D664BB33858F6), compiling. 
+[2023.01.17-15.33.55:087][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 96FC64A032C271E865930AE8374B2C8F95B4B076), compiling. 
+[2023.01.17-15.33.55:088][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BA928753EB2B67A7F8288091E82462FAA2820C1E), compiling. 
+[2023.01.17-15.33.55:091][696]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F919F94211B1962B884B8E0E36BEC6E0350508B), compiling. 
+[2023.01.17-15.33.55:091][696]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.55:092][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AEE2A09884A0EA43F77AA515A08A794950D73C1E), compiling. 
+[2023.01.17-15.33.55:094][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CF0A943914D6DC9F5A0A44481278970A9B211660), compiling. 
+[2023.01.17-15.33.55:096][696]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 79CB91FBEEE539D530EA97CA92A768FE84DCEFCB), compiling. 
+[2023.01.17-15.33.55:096][696]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.33.55:097][696]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.17-15.34.25:479][ 27]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 59B442420021EA642779F74EA3B4107D3323F646), compiling. 
+[2023.01.17-15.34.25:480][ 27]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.34.28:151][179]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F31073BCC37F32D58BA94C10418EA687726616C), compiling. 
+[2023.01.17-15.34.28:151][179]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.34.29:819][270]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.34.35:163][270]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.01.17-15.34.38:290][270]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FADD67AD5A645C792BA8DE91C06A0AD1511747D), compiling. 
+[2023.01.17-15.34.38:291][270]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.34.38:301][270]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: A638D31CBFB2FE521F70D28C5EB099C227422238), compiling. 
+[2023.01.17-15.34.38:301][270]LogMaterial: Warning: [AssetLog] /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.34.38:311][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.17-15.34.38:356][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.17-15.34.38:436][270]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.34.38:436][270]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2C02F3F3044FE7EBA8A8B6F86F2A9CD09.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.34.38:450][270]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.34.38:450][270]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.34.50:041][575]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C4537F2CED2F518673B9D8FABD6A52FE2C31C60), compiling. 
+[2023.01.17-15.34.50:047][575]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.34.50:047][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.34.50:047][575]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.34.50:713][608]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.34.50:714][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.34.50:714][608]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.34.52:828][761]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.34.53:233][761]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0925050F368819A82664B09020A59FDC0885D781), compiling. 
+[2023.01.17-15.34.53:243][761]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 54A79C50B732E1B7663FA536ABC6D9FA980B2ACD), compiling. 
+[2023.01.17-15.34.53:252][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.17-15.34.53:291][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.17-15.34.55:118][761]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.34.55:118][761]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader254CBAADD44886F025F70E7AEF630E628.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.34.55:132][761]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.34.55:132][761]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.34.55:133][761]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.34.55:133][761]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.34.55:133][761]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.34.55:133][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.34.55:133][761]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.34.57:050][860]LogViewport: Scene viewport resized to 534x398, mode Windowed.
+[2023.01.17-15.34.57:286][862]LogViewport: Scene viewport resized to 285x193, mode Windowed.
+[2023.01.17-15.34.57:317][863]LogViewport: Scene viewport resized to 215x135, mode Windowed.
+[2023.01.17-15.34.58:176][945]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.34.58:232][946]LogViewport: Scene viewport resized to 534x398, mode Windowed.
+[2023.01.17-15.34.58:292][948]LogViewport: Scene viewport resized to 270x180, mode Windowed.
+[2023.01.17-15.34.58:336][949]LogSlate: Window 'M_CelShader2' being destroyed
+[2023.01.17-15.34.58:355][949]LogViewport: Scene viewport resized to 216x140, mode Windowed.
+[2023.01.17-15.34.59:421][996]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.36.03:536][326]LogViewport: Scene viewport resized to 216x140, mode Windowed.
+[2023.01.17-15.36.05:707][416]LogSlate: Window 'M_CelShader2' being destroyed
+[2023.01.17-15.36.05:721][416]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.36.05:721][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.36.07:179][513]LogContentBrowser: Deferred new asset file creation: M_CelShader2_Inst
+[2023.01.17-15.36.07:190][513]LogContentBrowser: Creating deferred item: M_CelShader2_Inst
+[2023.01.17-15.36.07:199][514]LogContentBrowser: Renaming the item being created (Deferred Item: M_CelShader2_Inst).
+[2023.01.17-15.36.13:174][  3]LogContentBrowser: Attempting asset rename: M_CelShader2_Inst -> MI_CelShader2
+[2023.01.17-15.36.13:174][  3]LogContentBrowser: End creating deferred item M_CelShader2_Inst
+[2023.01.17-15.36.45:136][713]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/Materials/Shaders/MI_CelShader2.MI_CelShader2
+[2023.01.17-15.36.45:137][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.36.45:306][713]LogViewport: Scene viewport resized to 587x894, mode Windowed.
+[2023.01.17-15.36.50:380][ 40]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.36.54:698][338]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.17-15.36.55:845][426]LogSlate: Window 'MI_CelShader2' being destroyed
+[2023.01.17-15.36.55:856][426]LogSlate: Window 'MI_CelShader2' being destroyed
+[2023.01.17-15.36.55:864][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.17-15.36.55:903][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.17-15.36.55:926][426]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.36.55:926][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.37.03:981][ 99]LogViewport: Scene viewport resized to 1469x442, mode Windowed.
+[2023.01.17-15.37.04:022][101]LogViewport: Scene viewport resized to 1469x490, mode Windowed.
+[2023.01.17-15.37.04:090][103]LogViewport: Scene viewport resized to 1469x576, mode Windowed.
+[2023.01.17-15.37.04:136][105]LogViewport: Scene viewport resized to 1469x624, mode Windowed.
+[2023.01.17-15.37.04:175][107]LogViewport: Scene viewport resized to 1469x665, mode Windowed.
+[2023.01.17-15.37.04:203][108]LogViewport: Scene viewport resized to 1469x688, mode Windowed.
+[2023.01.17-15.37.04:242][110]LogViewport: Scene viewport resized to 1469x696, mode Windowed.
+[2023.01.17-15.37.43:689][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.17-15.37.43:732][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_ArtTesting_Auto3
+[2023.01.17-15.37.43:732][279]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting_Auto3C22525DC43D518AD6F8C2E97C38C1C90.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/Maps/Map_ArtTesting_Auto3.umap'
+[2023.01.17-15.37.43:737][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.055
+[2023.01.17-15.37.43:737][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2023.01.17-15.39.05:065][419]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/StaticMeshes/MI_Barrel.MI_Barrel
+[2023.01.17-15.39.05:066][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.39.05:246][419]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.39.17:440][312]LogSlate: Window 'MI_Barrel' being destroyed
+[2023.01.17-15.39.17:448][312]LogSlate: Window 'MI_Barrel' being destroyed
+[2023.01.17-15.39.17:459][312]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.39.17:459][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.39.19:320][478]LogViewport: Scene viewport resized to 1469x687, mode Windowed.
+[2023.01.17-15.39.19:359][480]LogViewport: Scene viewport resized to 1469x645, mode Windowed.
+[2023.01.17-15.39.19:412][482]LogViewport: Scene viewport resized to 1469x570, mode Windowed.
+[2023.01.17-15.39.19:455][484]LogViewport: Scene viewport resized to 1469x526, mode Windowed.
+[2023.01.17-15.39.19:492][486]LogViewport: Scene viewport resized to 1469x509, mode Windowed.
+[2023.01.17-15.39.19:523][488]LogViewport: Scene viewport resized to 1469x495, mode Windowed.
+[2023.01.17-15.39.19:553][490]LogViewport: Scene viewport resized to 1469x485, mode Windowed.
+[2023.01.17-15.39.19:580][492]LogViewport: Scene viewport resized to 1469x481, mode Windowed.
+[2023.01.17-15.39.21:183][615]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/t017849k/Materials/Textures/T_Barrel_BC.T_Barrel_BC
+[2023.01.17-15.39.21:252][615]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.01.17-15.39.21:345][615]LogViewport: Scene viewport resized to 770x465, mode Windowed.
+[2023.01.17-15.39.35:098][678]LogTexture: Display: Building textures: /Game/t017849k/Materials/Textures/T_Barrel_BC.T_Barrel_BC (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.17-15.39.38:539][942]LogSlate: Window 'T_Barrel_BC' being destroyed
+[2023.01.17-15.39.38:548][942]LogSlate: Window 'T_Barrel_BC' being destroyed
+[2023.01.17-15.39.51:676][ 52]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/Materials/SM_StoneWallPost.SM_StoneWallPost
+[2023.01.17-15.39.51:677][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.39.51:856][ 52]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.39.53:804][210]LogSlate: Window 'SM_StoneWallPost' being destroyed
+[2023.01.17-15.39.53:818][210]LogSlate: Window 'SM_StoneWallPost' being destroyed
+[2023.01.17-15.39.53:832][210]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.39.53:832][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.40.01:004][688]LogContentBrowser: Attempting asset rename: SM_StoneWallPost -> MI_StoneWallPost
+[2023.01.17-15.40.01:083][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/StaticMeshes/SM_StoneWallPost" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/SM_StoneWallPost.uasset" SILENT=true
+[2023.01.17-15.40.01:093][688]LogSavePackage: Moving output files for package: /Game/t017849k/StaticMeshes/SM_StoneWallPost
+[2023.01.17-15.40.01:093][688]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/SM_StoneWallPost55A8503A413C3AEBD22B16855B8958BF.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/SM_StoneWallPost.uasset'
+[2023.01.17-15.40.01:100][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Materials/MI_StoneWallPost" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/MI_StoneWallPost.uasset" SILENT=true
+[2023.01.17-15.40.01:101][688]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/MI_StoneWallPost
+[2023.01.17-15.40.01:101][688]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/MI_StoneWallPost5766E6F44D85A2DAC11C38B30DEF8957.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/MI_StoneWallPost.uasset'
+[2023.01.17-15.40.01:119][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.17-15.40.01:127][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.17-15.40.01:133][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.17-15.40.01:137][688]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.17-15.40.01:137][688]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/t017849k/Materials/MI_StoneWallPost.MI_StoneWallPost
+[2023.01.17-15.40.01:137][688]LogContentValidation: Display: Validating StaticMesh /Game/t017849k/StaticMeshes/SM_StoneWallPost.SM_StoneWallPost
+[2023.01.17-15.40.02:643][811]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/Materials/MI_StoneWallPost.MI_StoneWallPost
+[2023.01.17-15.40.02:645][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.40.02:821][811]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.40.04:785][970]LogSlate: Window 'MI_StoneWallPost' being destroyed
+[2023.01.17-15.40.04:796][970]LogSlate: Window 'MI_StoneWallPost' being destroyed
+[2023.01.17-15.40.04:807][970]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.40.04:807][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.40.11:651][488]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/StaticMeshes/MI_Barrel.MI_Barrel
+[2023.01.17-15.40.11:652][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.40.11:845][488]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.40.18:718][ 25]LogSlate: Window 'MI_Barrel' being destroyed
+[2023.01.17-15.40.18:726][ 25]LogSlate: Window 'MI_Barrel' being destroyed
+[2023.01.17-15.40.18:736][ 25]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.40.18:736][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.42.02:931][167]LogViewport: Scene viewport resized to 1469x486, mode Windowed.
+[2023.01.17-15.42.02:970][169]LogViewport: Scene viewport resized to 1469x495, mode Windowed.
+[2023.01.17-15.42.03:044][171]LogViewport: Scene viewport resized to 1469x505, mode Windowed.
+[2023.01.17-15.42.03:111][175]LogViewport: Scene viewport resized to 1469x513, mode Windowed.
+[2023.01.17-15.42.03:162][177]LogViewport: Scene viewport resized to 1469x515, mode Windowed.
+[2023.01.17-15.42.03:388][190]LogViewport: Scene viewport resized to 1469x518, mode Windowed.
+[2023.01.17-15.42.03:409][191]LogViewport: Scene viewport resized to 1469x521, mode Windowed.
+[2023.01.17-15.44.42:672][388]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.44.42:674][388]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D7353C0B6E30A33F0E7463F3E0B9F33C05ED841), compiling. 
+[2023.01.17-15.44.42:686][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.44.42:768][388]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D924ADB5A0350B035932EB4B2E12C0F9FD56D4BD), compiling. 
+[2023.01.17-15.44.42:771][388]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 57EE55D80C3E8BD056B9F3100FB28C6D0B699DDE), compiling. 
+[2023.01.17-15.44.42:774][388]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E681EB0BB18532388076C62BDBB8951C2CCD778), compiling. 
+[2023.01.17-15.44.42:776][388]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 723AACAEB6C49B12E287875553AE45D0A8678102), compiling. 
+[2023.01.17-15.44.42:798][388]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.44.42:799][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.44.42:799][388]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.44.42:806][388]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Total job queries 2238, among them cache hits 1749 (78.15%)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Tracking 428 distinct input hashes that result in 244 distinct outputs (57.01%)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: RAM used: 0.67 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Shaders Compiled: 297
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Jobs assigned 468, completed 466 (99.57%)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Average time worker was idle: 342.88 s
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 3.63 s
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Job execution time: average 18.85 s, max 69.61 s
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Job life time (pending + execution): average 18.99 s, max 69.61
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 230.45 s
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Jobs were issued in 225 batches (164 local, 61 distributed), average 2.08 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Average processing rate: 2.02 jobs/sec
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Effective parallelization: 1.41 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   26 times, average 1.04 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   48 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.07% of total time (compiled   48 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.19% of total time (compiled   39 times, average 0.85 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.34% of total time (compiled   26 times, average 1.04 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.68% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.65% of total time (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.44.42:924][391]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.44.43:419][414]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.44.43:419][414]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.44.43:419][414]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.44.45:505][518]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Materials/Shaders/M_CelShader.M_CelShader
+[2023.01.17-15.44.45:508][518]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: C7DD339682A48D0CDC5BDD391BFD5B7CE825D283), compiling. 
+[2023.01.17-15.44.45:520][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.44.45:583][518]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: 9A6309564E8D2E568595330FB24627CBB947D762), compiling. 
+[2023.01.17-15.44.45:587][518]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: C29D349339CE01A7E6865EE439DC738B92432856), compiling. 
+[2023.01.17-15.44.45:608][518]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.44.45:608][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.01.17-15.44.45:608][518]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.44.45:615][518]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.44.46:136][540]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.44.46:136][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.01.17-15.44.46:136][540]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.45.10:293][240]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.45.18:015][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_2
+[2023.01.17-15.45.18:015][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_2
+[2023.01.17-15.45.18:015][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_2.MaterialExpressionMultiply_9"')'
+[2023.01.17-15.45.18:015][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_54 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_54
+[2023.01.17-15.45.18:015][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_54 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_54
+[2023.01.17-15.45.18:015][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialGraphNode_54.MaterialExpressionComponentMask_0"')'
+[2023.01.17-15.45.18:017][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_49 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_49
+[2023.01.17-15.45.18:017][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_49 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_49
+[2023.01.17-15.45.18:017][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_49.MaterialExpressionSceneTexture_10"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2023.01.17-15.45.18:017][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_50 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_50
+[2023.01.17-15.45.18:017][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_50 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_50
+[2023.01.17-15.45.18:017][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionNormalize'"MaterialGraphNode_50.MaterialExpressionNormalize_0"')'
+[2023.01.17-15.45.18:019][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_53 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_53
+[2023.01.17-15.45.18:019][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_53 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_53
+[2023.01.17-15.45.18:019][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_53.MaterialExpressionSceneTexture_11"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2023.01.17-15.45.18:020][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_52 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_52
+[2023.01.17-15.45.18:020][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_52 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_52
+[2023.01.17-15.45.18:020][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDesaturation'"MaterialGraphNode_52.MaterialExpressionDesaturation_2"')'
+[2023.01.17-15.45.18:020][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_51 or MaterialGraphNode /Engine/Transient.M_CelShader:MaterialGraph_0.MaterialGraphNode_51
+[2023.01.17-15.45.18:020][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.M_CelShader2:MaterialGraph_0.MaterialGraphNode_51 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_51
+[2023.01.17-15.45.18:020][796]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_51.MaterialExpressionMultiply_8"')'
+[2023.01.17-15.45.18:021][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /HairStrands/Materials/HairDebugMaterial.HairDebugMaterial:MaterialExpressionIf_7 or MaterialExpressionIf /Engine/EngineMaterials/HighResScreenshotCaptureRegion.HighResScreenshotCaptureRegion:MaterialExpressionIf_7
+[2023.01.17-15.45.18:021][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /HairStrands/Materials/HairDebugMaterial.HairDebugMaterial:MaterialExpressionIf_7 or MaterialExpressionIf /Game/t017849k/Materials/Shaders/M_CelShader.M_CelShader:MaterialExpressionIf_7
+[2023.01.17-15.45.18:021][796]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionIf /HairStrands/Materials/HairDebugMaterial.HairDebugMaterial:MaterialExpressionIf_7 or MaterialExpressionIf /Engine/Transient.M_CelShader:MaterialExpressionIf_7
+[2023.01.17-15.45.18:033][796]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40B3366671D85453F0412186534ECED28081056B), compiling. 
+[2023.01.17-15.45.18:037][796]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.45.18:037][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.45.18:037][796]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.45.18:090][798]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.45.18:090][798]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.45.18:090][798]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.45.23:024][153]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 46631A786AA482489D58356D063FE5477E900120), compiling. 
+[2023.01.17-15.45.23:025][153]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node Desaturation) Missing Desaturation input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.45.23:034][153]MaterialEditorStats: Error: [SM5] (Node Desaturation) Missing Desaturation input
+[2023.01.17-15.45.23:034][153]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile ALessThanB input.
+[2023.01.17-15.45.27:645][521]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 51C91BFBC4027AABA25B6C9D3F16FE67FD8255B6), compiling. 
+[2023.01.17-15.45.27:654][521]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.45.27:654][521]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.45.27:654][521]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.45.28:603][583]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.45.28:603][583]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.45.28:603][583]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.45.30:537][701]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.45.30:928][701]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 65FCB6FE3E77E07898E80B00047B826149EFCFEF), compiling. 
+[2023.01.17-15.45.30:939][701]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: BDB5829EEF594FABA0E995A5ED35EA2D322EB1FA), compiling. 
+[2023.01.17-15.45.30:953][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.17-15.45.30:994][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.01.17-15.45.32:427][701]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.45.32:427][701]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader23097C63645A4745AC815CC87A37A9EC9.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.45.32:437][701]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.45.32:437][701]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.45.32:438][701]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.45.32:438][701]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.45.32:438][701]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.45.32:438][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.45.32:438][701]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.45.33:106][735]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.45.47:542][596]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.45.48:778][673]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.46.03:877][796]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B30336B0A611939B6F7E1A2941FA8EC4A063D3E0), compiling. 
+[2023.01.17-15.46.03:887][796]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.46.03:887][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.46.03:887][796]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.46.04:482][830]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.46.04:482][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.46.04:482][830]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.46.05:077][868]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.46.05:461][868]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FB4107728E21E09A3CD48D38906EADDEBB2E7E2), compiling. 
+[2023.01.17-15.46.05:469][868]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: E59E79AA4AC14E3876F3B6C38E24C8266D108126), compiling. 
+[2023.01.17-15.46.05:478][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.17-15.46.05:512][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.01.17-15.46.06:940][868]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.46.06:940][868]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader29745EBF147E4C4C3DCA17EB3B955D1B9.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.46.06:949][868]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.46.06:949][868]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.46.06:950][868]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.46.06:950][868]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.46.06:950][868]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.46.06:950][868]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.46.06:950][868]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.46.07:299][884]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.46.08:893][927]LogViewport: Scene viewport resized to 535x388, mode Windowed.
+[2023.01.17-15.46.14:345][342]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 485D3860A2C0A8B5775A77D6B4C38B935100809D), compiling. 
+[2023.01.17-15.46.14:347][342]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.46.14:347][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.46.14:347][342]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.46.14:422][344]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.46.14:422][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.46.14:422][344]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.46.53:422][221]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.47.23:422][285]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DD5ACB74C7AD2E1125C0FFEDEF609DF905CEA7CA), compiling. 
+[2023.01.17-15.47.23:426][285]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A2691E94113E6A4049323CE9D9BA451649540B3), compiling. 
+[2023.01.17-15.47.23:429][285]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.47.23:429][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.47.23:429][285]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.47.24:076][325]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.47.24:076][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.47.24:076][325]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.47.24:309][341]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.47.24:704][341]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EC9F655F5142C386D9596E3583C8B2E00691719), compiling. 
+[2023.01.17-15.47.24:712][341]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 187DF710CB4F69D966C2B3B90578CF5CA7AC8BDD), compiling. 
+[2023.01.17-15.47.24:723][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.17-15.47.24:766][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.17-15.47.26:212][341]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.47.26:213][341]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2533AE9EF442B6D87400B88A0AD988C28.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.47.26:223][341]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.47.26:223][341]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.47.26:224][341]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.47.26:224][341]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.47.26:224][341]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.47.26:224][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.47.26:224][341]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.47.48:947][865]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BAFD458E97B16B0045488ECACB9D05C410F19AA), compiling. 
+[2023.01.17-15.47.48:951][865]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F1AC68163CA70A2B77CA267EAF7AAA04C012D8D0), compiling. 
+[2023.01.17-15.47.48:954][865]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.47.48:954][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.47.48:954][865]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Total job queries 2324, among them cache hits 1796 (77.28%)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Tracking 462 distinct input hashes that result in 254 distinct outputs (54.98%)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: RAM used: 0.68 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Shaders Compiled: 304
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Jobs assigned 500, completed 500 (100.00%)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Average time worker was idle: 390.40 s
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 3.63 s
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Job execution time: average 17.62 s, max 69.61 s
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Job life time (pending + execution): average 17.75 s, max 69.61
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 237.28 s
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Jobs were issued in 257 batches (196 local, 61 distributed), average 1.95 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Average processing rate: 2.11 jobs/sec
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Effective parallelization: 1.46 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   29 times, average 1.04 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   51 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.02% of total time (compiled   51 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.41% of total time (compiled   42 times, average 0.86 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.69% of total time (compiled   29 times, average 1.04 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.23% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.37% of total time (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.47.48:968][866]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.47.48:978][867]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.47.48:978][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.47.48:978][867]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.01:094][811]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AFC4000D53B1717140B8CD522069E1C910955FB), compiling. 
+[2023.01.17-15.48.01:095][811]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.48.01:182][821]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2023.01.17-15.48.01:182][821]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile ALessThanB input.
+[2023.01.17-15.48.03:672][ 28]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2604737E35FEA1C296B73406C2EC053DA0F83069), compiling. 
+[2023.01.17-15.48.03:673][ 28]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+	(Node If) Failed to compile ALessThanB input.
+
+[2023.01.17-15.48.06:115][205]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 38BE988C82670A989B640C1F233573AE5E0613E6), compiling. 
+[2023.01.17-15.48.06:124][205]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.48.06:124][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.06:124][205]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.48.06:828][245]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.06:828][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.06:828][245]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.07:381][283]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.48.07:772][283]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F5EC25491AB3379EFD0FE86310B2DEC89005911), compiling. 
+[2023.01.17-15.48.07:781][283]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 767225A6B940FABE13D0D0975312F297633A9816), compiling. 
+[2023.01.17-15.48.07:790][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.17-15.48.07:829][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.01.17-15.48.09:276][283]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.48.09:276][283]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader21A1AEA9B4A244A6FF2E4E6837D6B3682.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.48.09:288][283]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.48.09:288][283]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.48.09:289][283]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.48.09:289][283]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.48.09:289][283]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.09:289][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.09:289][283]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.48.28:737][648]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 63A26D496ADEED687EDA8CAA0F5DCFC347814FF5), compiling. 
+[2023.01.17-15.48.28:751][648]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.48.28:751][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(10)
+[2023.01.17-15.48.28:751][648]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.48.29:284][678]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.29:284][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(10)
+[2023.01.17-15.48.29:284][678]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.30:793][793]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FD90069F78B5B53ED059EA726E4AE9C5F6A6D365), compiling. 
+[2023.01.17-15.48.30:801][793]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.48.30:801][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.30:801][793]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.48.30:871][796]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.30:871][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.30:871][796]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.31:770][851]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.48.32:152][851]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C887DD382209290DF42314B56CA59B157716491), compiling. 
+[2023.01.17-15.48.32:160][851]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EEE58EFC408DFF9C1840989037246805E52CD69), compiling. 
+[2023.01.17-15.48.32:169][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.17-15.48.32:205][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.17-15.48.32:306][851]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.48.32:307][851]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2BD06034446AE959D09127DB52CB49DF1.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.48.32:317][851]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.48.32:317][851]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.48.32:318][851]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.48.32:318][851]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.48.32:318][851]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.32:318][851]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.32:318][851]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.48.38:441][250]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 122045E7A13A585874D5252F6BDA54A2B452004E), compiling. 
+[2023.01.17-15.48.38:476][253]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.48.38:476][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.38:476][253]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.48.38:880][278]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.38:880][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.38:880][278]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.40:180][374]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A56B797036C288F7C565A23FDE2155C74B78C0E6), compiling. 
+[2023.01.17-15.48.40:188][374]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.48.40:188][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.40:188][374]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.48.40:738][405]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.40:738][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.40:738][405]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.41:227][437]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.48.41:612][437]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BD283AE0B8352E81C005CA603D8B2F30D32A8C8A), compiling. 
+[2023.01.17-15.48.41:622][437]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7151F959D205D0F8ABB4EE211600BDEB72BF627F), compiling. 
+[2023.01.17-15.48.41:631][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.17-15.48.41:669][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.17-15.48.43:095][437]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.48.43:095][437]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2DE2649F74D391FEC18ED939C1EE8C777.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.48.43:105][437]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.48.43:105][437]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.48.43:106][437]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.48.43:106][437]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.48.43:106][437]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.43:106][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.43:106][437]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.48.45:596][615]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 52F2F265B00E187A2588B70BAB89001C98FE73E8), compiling. 
+[2023.01.17-15.48.45:605][615]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.48.45:605][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.45:605][615]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.48.46:149][647]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.46:149][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.46:149][647]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.48.46:615][677]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.48.47:015][677]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 10403946A3B2FC80A5765B861A5C986AC3148CA6), compiling. 
+[2023.01.17-15.48.47:023][677]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E2F2A8E7010D304909F6B12E37A422E85EA49D6), compiling. 
+[2023.01.17-15.48.47:032][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.17-15.48.47:069][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.17-15.48.48:386][677]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.48.48:386][677]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader273D5FB8C4AF03825947555919391CA28.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.48.48:394][677]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.48.48:395][677]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.48.48:395][677]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.48.48:395][677]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.48.48:395][677]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.48.48:395][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.48.48:395][677]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.48.55:604][128]LogSlate: Window 'M_CelShader' being destroyed
+[2023.01.17-15.48.55:610][128]LogSlate: Window 'M_CelShader' being destroyed
+[2023.01.17-15.48.55:621][128]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.48.55:621][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.48.55:661][128]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.48.55:661][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.49.18:173][157]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Materials/Shaders/M_CelShader.M_CelShader
+[2023.01.17-15.49.18:175][157]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D2950AB05771BE266A2A4463B3A65AFA85EBB97F), compiling. 
+[2023.01.17-15.49.18:184][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.49.18:268][157]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F901E333581E2CE1BF7D92631C56875C7C6FCBB9), compiling. 
+[2023.01.17-15.49.18:271][157]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 348D9C762285A1684363CA7E3B2135B767EAFB4C), compiling. 
+[2023.01.17-15.49.18:291][157]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.49.18:291][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.01.17-15.49.18:291][157]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.49.18:298][157]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.49.18:911][184]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.18:911][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.01.17-15.49.18:911][184]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.49.23:780][521]LogSlate: Window 'M_CelShader' being destroyed
+[2023.01.17-15.49.23:796][521]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.49.23:796][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.49.24:498][572]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.49.24:500][572]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E50EFBF461EF3E1B2B98F0577DD9CBAFBDE91AA0), compiling. 
+[2023.01.17-15.49.24:510][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.49.24:591][572]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E27BF04E2704F971FCCF2C188CCF15469508A3E), compiling. 
+[2023.01.17-15.49.24:594][572]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: C3D5CA5635288BBBE4455DC7ADA61866E7203140), compiling. 
+[2023.01.17-15.49.24:596][572]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C7AE4AFC2B194B0804F3BCE3D734D66E08D24708), compiling. 
+[2023.01.17-15.49.24:597][572]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 69FFD9CBAC779B44BAF231975760BD671A3B042F), compiling. 
+[2023.01.17-15.49.24:615][572]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.49.24:616][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.24:616][572]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.49.24:623][572]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.49.25:183][598]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.25:183][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.25:184][598]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.49.29:841][980]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 869DC79C3E390CF82EABF0472CC9117E2A0B559C), compiling. 
+[2023.01.17-15.49.29:849][980]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.49.29:849][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.29:849][980]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.49.30:341][  4]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.30:341][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.30:341][  4]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.49.31:160][ 51]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.49.31:553][ 51]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 23853830591F05B09C97EE9505DC06B219E5CB27), compiling. 
+[2023.01.17-15.49.31:562][ 51]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: CFB8FFBF1FBB67D79CBF0139A9C67AF742E56FDE), compiling. 
+[2023.01.17-15.49.31:574][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.17-15.49.31:618][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.17-15.49.33:029][ 51]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.49.33:030][ 51]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader289D044794F6BB172DA0EF2BC9ADCF6A7.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.49.33:050][ 51]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.49.33:050][ 51]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.49.33:051][ 51]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.49.33:051][ 51]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.49.33:051][ 51]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.33:051][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.33:051][ 51]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.49.37:430][319]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 946749B795CD6869A6AA2A02AB5E17C5C38DD305), compiling. 
+[2023.01.17-15.49.37:441][319]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.49.37:441][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.01.17-15.49.37:441][319]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.49.37:872][340]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.17-15.49.37:872][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.01.17-15.49.37:872][340]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.49.43:493][747]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 384DDBA09ADF9A9F7926EA131202663F8371BC71), compiling. 
+[2023.01.17-15.49.43:503][747]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.49.43:503][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.43:503][747]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.49.44:037][772]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.44:037][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.44:037][772]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.49.45:825][877]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.49.46:207][877]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5091EE76AF382EBFBD62853127432513D7DDE42E), compiling. 
+[2023.01.17-15.49.46:215][877]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5DB21F0A9632F51358155E0EB906CC168208CDBF), compiling. 
+[2023.01.17-15.49.46:223][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.17-15.49.46:258][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.17-15.49.47:597][877]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.49.47:598][877]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader23F639BE248432F56825344B39EEE8C35.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.49.47:608][877]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.49.47:608][877]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.49.47:609][877]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.49.47:609][877]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.49.47:609][877]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.47:609][877]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.47:609][877]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.49.54:616][365]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D01076D3AB9064A1C30301B76E5086E00702A8D), compiling. 
+[2023.01.17-15.49.54:625][365]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.49.54:625][365]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.54:625][365]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.49.55:190][392]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.55:190][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.55:190][392]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.49.55:844][428]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.49.56:245][428]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FE88222BC3DD5EC970718F1CA9AEBA6B9EFB146), compiling. 
+[2023.01.17-15.49.56:253][428]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: C757A89A9930260B6487A1DBE7BBE663E71BEDB7), compiling. 
+[2023.01.17-15.49.56:262][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.17-15.49.56:300][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.17-15.49.57:541][428]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.49.57:541][428]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2374980F840FF02331A1AC982E6736532.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.49.57:550][428]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.49.57:550][428]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.49.57:551][428]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.49.57:551][428]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.49.57:551][428]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.49.57:551][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.49.57:551][428]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.50.01:360][655]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 99F7EBD1901E92BB308118D1A0660CD7EAEFCAAC), compiling. 
+[2023.01.17-15.50.01:368][655]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.50.01:368][655]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2023.01.17-15.50.01:368][655]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.50.01:924][681]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.01:924][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2023.01.17-15.50.01:924][681]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.50.02:317][702]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.50.02:705][702]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 052FC336073B43A943FD990E87CD8481743338E1), compiling. 
+[2023.01.17-15.50.02:715][702]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: AA195A8023556C5F924DCCFDC688E6BBBDCFEA12), compiling. 
+[2023.01.17-15.50.02:723][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.17-15.50.02:768][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.17-15.50.04:054][702]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.50.04:055][702]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader23C78252F4B4FB8CC706683B38F789CEB.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.50.04:066][702]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.50.04:066][702]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.50.04:067][702]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.50.04:067][702]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.50.04:067][702]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.04:067][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2023.01.17-15.50.04:067][702]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.50.12:831][276]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 414B65ABF82480EB9F32545FE6D116D63DE5A615), compiling. 
+[2023.01.17-15.50.12:839][276]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.50.12:839][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.50.12:839][276]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.50.13:318][300]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.13:318][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.50.13:318][300]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.50.14:869][421]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 38727DC1AA05B796505FE0417BB4BB9CF7625439), compiling. 
+[2023.01.17-15.50.14:882][421]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.50.14:882][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.50.14:882][421]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.50.14:973][424]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.14:973][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.50.14:973][424]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.50.16:095][490]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.50.16:484][490]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7FA053D832A6A184C791A75939C74BCCBB940BDC), compiling. 
+[2023.01.17-15.50.16:494][490]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B599C47C533D75E6F46F1B1E490F980CADC1F62), compiling. 
+[2023.01.17-15.50.16:504][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.17-15.50.16:542][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.01.17-15.50.16:646][490]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.50.16:646][490]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2C43D04F245CB7652EAAD1386724961FB.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.50.16:659][490]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.50.16:659][490]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.50.16:660][490]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.50.16:660][490]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.50.16:660][490]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.16:660][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.50.16:660][490]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.50.24:640][972]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Materials/Shaders/M_CelShader.M_CelShader
+[2023.01.17-15.50.24:643][972]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: 2EBD423EDA20305D7A27AD603E87D3984A60EE42), compiling. 
+[2023.01.17-15.50.24:659][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.50.24:721][972]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: 0A7BE6B1D8113AFE8FF8565D76E56D145B4A01E0), compiling. 
+[2023.01.17-15.50.24:724][972]LogMaterial: Display: Missing cached shadermap for Preview:M_CelShader in PCD3D_SM5, Default, SM5 (DDC key hash: 21574EA6176A132616AA748DDBC21C08CC12449F), compiling. 
+[2023.01.17-15.50.24:744][972]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.50.24:744][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.01.17-15.50.24:744][972]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.50.24:752][972]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-15.50.24:847][974]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.24:847][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(18)
+[2023.01.17-15.50.24:847][974]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.50.31:398][384]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D1AB5F1B7E393ED34512B13C390FED1B4DBED90C), compiling. 
+[2023.01.17-15.50.31:453][388]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.31:453][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(16)
+[2023.01.17-15.50.31:453][388]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.50.49:548][664]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 76DCA5E5CB680127D153E2FEC323593AD669952E), compiling. 
+[2023.01.17-15.50.49:548][664]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node If) Missing If ALessThanB input
+
+[2023.01.17-15.50.49:549][664]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2023.01.17-15.50.54:418][998]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0938D8E21B9F6DB7E514A9BED7DFAD61B0F0676F), compiling. 
+[2023.01.17-15.50.54:425][998]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-15.50.54:425][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.50.54:425][998]MaterialEditorStats: Shader Count: 0
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Total job queries 2561, among them cache hits 1930 (75.36%)
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Tracking 545 distinct input hashes that result in 271 distinct outputs (49.72%)
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: RAM used: 0.71 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Shaders Compiled: 318
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Jobs assigned 584, completed 583 (99.83%)
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Average time worker was idle: 274.63 s
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 3.63 s
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Job execution time: average 15.22 s, max 69.61 s
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Job life time (pending + execution): average 15.34 s, max 69.61
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 252.56 s
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Jobs were issued in 341 batches (280 local, 61 distributed), average 1.71 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Average processing rate: 2.31 jobs/sec
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Effective parallelization: 1.56 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.50.54:824][ 15]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   36 times, average 1.03 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   58 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.93% of total time (compiled   58 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.80% of total time (compiled   49 times, average 0.87 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.35% of total time (compiled   36 times, average 1.03 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.33% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.41% of total time (compiled   26 times, average 0.82 sec, max 1.37 sec, min 0.54 sec)
+[2023.01.17-15.50.54:825][ 15]LogShaderCompilers: Display: ================================================
+[2023.01.17-15.50.55:138][ 33]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.55:138][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.50.55:138][ 33]MaterialEditorStats: Shader Count: 2
+[2023.01.17-15.50.55:401][ 47]LogMaterialEditor: Saving and Compiling material M_CelShader2
+[2023.01.17-15.50.55:792][ 47]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F4BAE26144A7C067BCBD9ACFBECE73125314E53B), compiling. 
+[2023.01.17-15.50.55:803][ 47]LogMaterial: Display: Missing cached shadermap for M_CelShader2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BBF8B5EF90D426964AF8F69A7B2956A10DACD36), compiling. 
+[2023.01.17-15.50.55:815][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.17-15.50.55:853][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.01.17-15.50.57:272][ 47]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/M_CelShader2
+[2023.01.17-15.50.57:272][ 47]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_CelShader2831857BD4759800C22069DAF291E8D63.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/M_CelShader2.uasset'
+[2023.01.17-15.50.57:283][ 47]AssetCheck: New page: Asset Save: M_CelShader2
+[2023.01.17-15.50.57:283][ 47]LogContentValidation: Display: Validating Material /Game/t017849k/Materials/Shaders/M_CelShader2.M_CelShader2
+[2023.01.17-15.50.57:284][ 47]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2023.01.17-15.50.57:284][ 47]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.01.17-15.50.57:284][ 47]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-15.50.57:284][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(14)
+[2023.01.17-15.50.57:284][ 47]MaterialEditorStats: Shader Count: 8
+[2023.01.17-15.51.44:141][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.01.17-15.51.44:174][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_ArtTesting_Auto4
+[2023.01.17-15.51.44:175][605]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting_Auto40DC4C70B46810797C4124393804686DB.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/Maps/Map_ArtTesting_Auto4.umap'
+[2023.01.17-15.51.44:179][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.044
+[2023.01.17-15.51.44:179][605]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.01.17-15.51.44:179][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/t017849k/Materials/Textures/T_Barrel_BC] ([1] browsable assets)...
+[2023.01.17-15.51.44:180][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/t017849k/Materials/Textures/T_Barrel_BC.T_Barrel_BC]
+[2023.01.17-15.51.44:180][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/t017849k/Materials/Textures/T_Barrel_BC]
+[2023.01.17-15.51.44:182][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/t017849k/Materials/Textures/T_Barrel_BC_Auto4
+[2023.01.17-15.51.44:182][605]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/T_Barrel_BC_Auto47EECA4E9483DDCD0C8C866802D10991D.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/t017849k/Materials/Textures/T_Barrel_BC_Auto4.uasset'
+[2023.01.17-15.51.44:182][605]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.01.17-15.52.14:852][116]LogSlate: Window 'M_CelShader' being destroyed
+[2023.01.17-15.52.14:859][116]LogSlate: Window 'M_CelShader' being destroyed
+[2023.01.17-15.52.14:874][116]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.52.14:874][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.52.14:905][116]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.52.14:905][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.54.04:060][912]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/StaticMeshes/MI_Lamppost.MI_Lamppost
+[2023.01.17-15.54.04:062][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.54.04:243][912]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.54.06:274][ 56]LogSlate: Window 'MI_Lamppost' being destroyed
+[2023.01.17-15.54.06:280][ 56]LogSlate: Window 'MI_Lamppost' being destroyed
+[2023.01.17-15.54.06:293][ 56]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.54.06:294][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-15.54.09:093][252]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/StaticMeshes/MI_Barrel.MI_Barrel
+[2023.01.17-15.54.09:095][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-15.54.09:276][252]LogViewport: Scene viewport resized to 319x469, mode Windowed.
+[2023.01.17-15.54.20:311][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/StaticMeshes/MI_Barrel" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/MI_Barrel.uasset" SILENT=true
+[2023.01.17-15.54.20:318][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.17-15.54.20:351][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.17-15.54.20:353][110]LogSavePackage: Moving output files for package: /Game/t017849k/StaticMeshes/MI_Barrel
+[2023.01.17-15.54.20:353][110]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/MI_Barrel7AC51339418758ACC892B193850AE43E.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/MI_Barrel.uasset'
+[2023.01.17-15.54.20:368][110]AssetCheck: New page: Asset Save: MI_Barrel
+[2023.01.17-15.54.20:368][110]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/t017849k/StaticMeshes/MI_Barrel.MI_Barrel
+[2023.01.17-15.55.08:112][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/StaticMeshes/MI_Barrel" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/MI_Barrel.uasset" SILENT=true
+[2023.01.17-15.55.08:120][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.17-15.55.08:130][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.01.17-15.55.08:133][742]LogSavePackage: Moving output files for package: /Game/t017849k/StaticMeshes/MI_Barrel
+[2023.01.17-15.55.08:133][742]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/MI_Barrel88DD5A164C32E84925A419991C45B7B6.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/MI_Barrel.uasset'
+[2023.01.17-15.55.08:143][742]AssetCheck: New page: Asset Save: MI_Barrel
+[2023.01.17-15.55.08:143][742]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/t017849k/StaticMeshes/MI_Barrel.MI_Barrel
+[2023.01.17-15.55.09:710][862]LogSlate: Window 'MI_Barrel' being destroyed
+[2023.01.17-15.55.09:735][862]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-15.55.09:736][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-16.00.33:845][222]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/StaticMeshes/M_PropMaster.M_PropMaster
+[2023.01.17-16.00.33:847][222]LogMaterial: Display: Missing cached shadermap for Preview:M_PropMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 95B5D6BF96F1EE256746E78B5841E5CA7A387678), compiling. 
+[2023.01.17-16.00.33:876][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-16.00.33:961][222]LogMaterial: Display: Missing cached shadermap for Preview:M_PropMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 4852CF7030DBA312EA618909F4766740B8F2C304), compiling. 
+[2023.01.17-16.00.33:965][222]LogMaterial: Display: Missing cached shadermap for Preview:M_PropMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 618E68B65CEF56C97D00ACC89CDB39A588E55F28), compiling. 
+[2023.01.17-16.00.33:967][222]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 080D383E367D06645D292C76C2A20BC4E5E61544), compiling. 
+[2023.01.17-16.00.33:968][222]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 559C0B155DA3B2D621974E357299B9FBF4D2691C), compiling. 
+[2023.01.17-16.00.33:970][222]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4 in PCD3D_SM5, Default, SM5 (DDC key hash: DFE6BCB4F77CA0D81897935A15049A447E09D092), compiling. 
+[2023.01.17-16.00.33:988][222]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-16.00.33:988][222]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.01.17-16.00.33:988][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-16.00.33:988][222]MaterialEditorStats: Shader Count: 0
+[2023.01.17-16.00.33:996][222]LogViewport: Scene viewport resized to 287x203, mode Windowed.
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: ================================================
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Total job queries 2597, among them cache hits 1942 (74.78%)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Tracking 555 distinct input hashes that result in 274 distinct outputs (49.37%)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: RAM used: 0.71 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Shaders Compiled: 330
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Jobs assigned 596, completed 593 (99.50%)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Average time worker was idle: 272.27 s
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 3.63 s
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Job execution time: average 14.97 s, max 69.61 s
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Job life time (pending + execution): average 15.10 s, max 69.61
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 254.89 s
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Jobs were issued in 353 batches (292 local, 61 distributed), average 1.69 jobs/batch (1.00 jobs/local batch. 4.98 jobs/distributed batch)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Average processing rate: 2.33 jobs/sec
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Effective parallelization: 1.57 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.26 sec, max 1.85 sec, min 0.59 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   37 times, average 1.02 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   59 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 1.01 sec, max 1.69 sec, min 0.56 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.93% of total time (compiled   59 times, average 1.02 sec, max 1.90 sec, min 0.55 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.85% of total time (compiled   50 times, average 0.87 sec, max 2.00 sec, min 0.49 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.44% of total time (compiled   37 times, average 1.02 sec, max 1.82 sec, min 0.52 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.22% of total time (compiled   24 times, average 1.04 sec, max 1.84 sec, min 0.53 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.56% of total time (compiled   27 times, average 0.83 sec, max 1.37 sec, min 0.54 sec)
+[2023.01.17-16.00.34:746][251]LogShaderCompilers: Display: ================================================
+[2023.01.17-16.00.34:770][252]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.17-16.00.34:770][252]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.01.17-16.00.34:770][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-16.00.34:770][252]MaterialEditorStats: Shader Count: 1
+[2023.01.17-16.00.35:593][316]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.17-16.00.35:593][316]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.01.17-16.00.35:593][316]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-16.00.35:593][316]MaterialEditorStats: Shader Count: 4
+[2023.01.17-16.00.38:197][419]LogMaterial: Display: Missing cached shadermap for Preview:M_PropMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 94075AAA76F5E11FF4079BBA4586FD2DF9B357F1), compiling. 
+[2023.01.17-16.00.38:237][422]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.17-16.00.38:237][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.01.17-16.00.38:237][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-16.00.38:237][422]MaterialEditorStats: Shader Count: 0
+[2023.01.17-16.00.38:665][430]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.17-16.00.38:665][430]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.01.17-16.00.38:665][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-16.00.38:665][430]MaterialEditorStats: Shader Count: 1
+[2023.01.17-16.00.39:188][451]LogMaterialEditor: Saving and Compiling material M_PropMaster
+[2023.01.17-16.00.39:603][451]LogMaterial: Display: Missing cached shadermap for Preview:M_PropMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 17EBB553DCDE1BEA5A4162B28BD09EEAE7E0245B), compiling. 
+[2023.01.17-16.00.39:614][451]LogMaterial: Display: Missing cached shadermap for M_PropMaster in PCD3D_SM5, Default, SM5 (DDC key hash: A4D46C0E09134BB612B1D1E0CB287A5D7B932AE0), compiling. 
+[2023.01.17-16.00.39:665][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.17-16.00.40:721][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.17-16.00.42:845][451]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.17-16.00.43:158][451]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003004s (0.368212s overbudget)
+[2023.01.17-16.00.43:173][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/StaticMeshes/M_PropMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/M_PropMaster.uasset" SILENT=true
+[2023.01.17-16.00.43:176][451]LogSavePackage: Moving output files for package: /Game/t017849k/StaticMeshes/M_PropMaster
+[2023.01.17-16.00.43:176][451]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_PropMaster844B9E5948DE51ADB444FF909EC5E5D8.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/StaticMeshes/M_PropMaster.uasset'
+[2023.01.17-16.00.43:188][451]AssetCheck: New page: Asset Save: M_PropMaster
+[2023.01.17-16.00.43:188][451]LogContentValidation: Display: Validating Material /Game/t017849k/StaticMeshes/M_PropMaster.M_PropMaster
+[2023.01.17-16.00.43:189][451]MaterialEditorStats: Base pass shader: 135 instructions
+[2023.01.17-16.00.43:190][451]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.01.17-16.00.43:190][451]MaterialEditorStats: Texture samplers: 6/16
+[2023.01.17-16.00.43:190][451]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.01.17-16.00.43:190][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.17-16.00.43:190][451]MaterialEditorStats: Shader Count: 16
+[2023.01.17-16.00.44:895][538]LogSlate: Window 'M_PropMaster' being destroyed
+[2023.01.17-16.00.44:903][538]LogSlate: Window 'M_PropMaster' being destroyed
+[2023.01.17-16.00.44:913][538]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-16.00.44:913][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-16.01.03:577][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.17-16.01.04:297][127]LogSlate: Window 'Save Content' being destroyed
+[2023.01.17-16.01.04:342][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_ArtTesting" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/Map_ArtTesting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.17-16.01.04:349][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.17-16.01.04:384][127]LogSavePackage: Moving output files for package: /Game/Maps/Map_ArtTesting
+[2023.01.17-16.01.04:384][127]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting44B0E3004C59100394D642B102AFB9C8.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/Map_ArtTesting.umap'
+[2023.01.17-16.01.04:394][127]LogFileHelpers: Saving map 'Map_ArtTesting' took 0.052
+[2023.01.17-16.01.04:413][127]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/MI_CelShader2
+[2023.01.17-16.01.04:413][127]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/MI_CelShader24B59A7A34D20892D982B4994ABB9EE9A.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/MI_CelShader2.uasset'
+[2023.01.17-16.01.04:420][127]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Textures/T_Barrel_BC
+[2023.01.17-16.01.04:421][127]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/T_Barrel_BC3219726D47356FAE2B82629DA8C0FE01.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Textures/T_Barrel_BC.uasset'
+[2023.01.17-16.01.04:432][127]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.17-16.01.04:432][127]LogContentValidation: Display: Validating Texture2D /Game/t017849k/Materials/Textures/T_Barrel_BC.T_Barrel_BC
+[2023.01.17-16.01.04:432][127]LogContentValidation: Display: Validating World /Game/Maps/Map_ArtTesting.Map_ArtTesting
+[2023.01.17-16.01.04:432][127]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/t017849k/Materials/Shaders/MI_CelShader2.MI_CelShader2

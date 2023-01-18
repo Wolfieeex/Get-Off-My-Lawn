@@ -836,3 +836,1345 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.18-15.27.32:064][259]LogFileHelpers: Saving map 'Map_ArtTesting' took 0.064
 [2023.01.18-15.27.32:075][259]AssetCheck: New page: Asset Save: Map_ArtTesting
 [2023.01.18-15.27.32:075][259]LogContentValidation: Display: Validating World /Game/Maps/Map_ArtTesting.Map_ArtTesting
+[2023.01.18-15.35.47:276][617]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/Materials/Shaders/MI_CelShader.MI_CelShader
+[2023.01.18-15.35.47:278][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-15.35.47:436][617]LogViewport: Scene viewport resized to 310x679, mode Windowed.
+[2023.01.18-15.35.47:494][617]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.18-15.35.52:219][949]LogSlate: Window 'MI_CelShader' being destroyed
+[2023.01.18-15.35.52:242][949]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-15.35.52:242][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-15.35.53:101][  8]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/Materials/Shaders/MI_ToonShader.MI_ToonShader
+[2023.01.18-15.35.53:102][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-15.35.53:271][  8]LogViewport: Scene viewport resized to 310x679, mode Windowed.
+[2023.01.18-15.36.29:169][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.18-15.36.29:175][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.18-15.36.29:177][581]LogSavePackage: Moving output files for package: /Game/t017849k/Materials/Shaders/MI_ToonShader
+[2023.01.18-15.36.29:177][581]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/MI_ToonShader577C98C942B9493C7CA604BAC9B2357A.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Materials/Shaders/MI_ToonShader.uasset'
+[2023.01.18-15.36.29:190][581]AssetCheck: New page: Asset Save: MI_ToonShader
+[2023.01.18-15.36.29:190][581]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/t017849k/Materials/Shaders/MI_ToonShader.MI_ToonShader
+[2023.01.18-15.36.29:955][640]LogSlate: Window 'MI_ToonShader' being destroyed
+[2023.01.18-15.36.29:977][640]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-15.36.29:978][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-15.38.42:511][ 29]Cmd: DELETE
+[2023.01.18-15.38.42:511][ 29]Cmd: ACTOR DELETE
+[2023.01.18-15.38.42:547][ 29]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2023.01.18-15.38.42:553][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.18-15.38.42:554][ 29]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.01.18-15.39.45:466][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.01.18-15.39.45:521][543]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_ArtTesting_Auto1
+[2023.01.18-15.39.45:522][543]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting_Auto1B2F0CF414B7ECF0EB53E998487D28764.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/Maps/Map_ArtTesting_Auto1.umap'
+[2023.01.18-15.39.45:526][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.067
+[2023.01.18-15.39.45:527][543]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.01.18-16.21.53:215][101]LogDerivedDataCache: C:/Users/almig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.329 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.18-17.21.53:127][968]LogDerivedDataCache: C:/Users/almig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.104 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.18-17.27.45:984][868]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/t017849k/Foliage/Oak2/MI_Oak2Leaves.MI_Oak2Leaves
+[2023.01.18-17.27.45:986][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-17.27.46:169][868]LogViewport: Scene viewport resized to 310x679, mode Windowed.
+[2023.01.18-17.27.51:682][276]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-17.27.59:672][802]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-17.28.07:358][314]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-17.28.15:103][754]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-17.28.21:087][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/Oak2/MI_Oak2Leaves" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/Oak2/MI_Oak2Leaves.uasset" SILENT=true
+[2023.01.18-17.28.21:101][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.18-17.28.21:114][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.18-17.28.21:117][191]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/Oak2/MI_Oak2Leaves
+[2023.01.18-17.28.21:118][191]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/MI_Oak2LeavesD98CA1754E03D7B476C13EAFCBC4E264.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/Oak2/MI_Oak2Leaves.uasset'
+[2023.01.18-17.28.21:133][191]AssetCheck: New page: Asset Save: MI_Oak2Leaves
+[2023.01.18-17.28.21:133][191]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/t017849k/Foliage/Oak2/MI_Oak2Leaves.MI_Oak2Leaves
+[2023.01.18-17.28.22:938][326]LogSlate: Window 'MI_Oak2Leaves' being destroyed
+[2023.01.18-17.28.22:960][326]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-17.28.22:961][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-17.29.19:598][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.18-17.29.19:648][947]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_ArtTesting_Auto2
+[2023.01.18-17.29.19:648][947]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting_Auto21B08E804493175BA7007FDAB14EE11A6.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/Maps/Map_ArtTesting_Auto2.umap'
+[2023.01.18-17.29.19:654][947]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.063
+[2023.01.18-17.29.19:654][947]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2023.01.18-17.31.14:472][630]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-17.31.14:513][630]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6E82077AD535923C929FE8C6CAA38027A5EE25CB), compiling. 
+[2023.01.18-17.31.14:582][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-17.31.14:675][630]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: B6A614EEC530A7DB87D77DE09D0EB8CDC592FEEB), compiling. 
+[2023.01.18-17.31.14:682][630]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0E3D56E5D9F21FF2B8DE5DCBEB057B3A24E65239), compiling. 
+[2023.01.18-17.31.14:686][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B4A838A04CA8E76A075FC794BE51C0B6FBA6F5D), compiling. 
+[2023.01.18-17.31.14:687][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0808C0DB9C92646B14E8AE1DE4A66C8D80751377), compiling. 
+[2023.01.18-17.31.14:689][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A1FF34D4108B18DAEA6E31288A13D34D111334DB), compiling. 
+[2023.01.18-17.31.14:690][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 017BC25B4A3BE5A3EEEDB5909844747F9D908D4F), compiling. 
+[2023.01.18-17.31.14:692][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AC25559ED1D2BCB0E3FDCA94B449CA2566F62070), compiling. 
+[2023.01.18-17.31.14:694][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F6F50653A30FC54F05F75427F82D9488316E788), compiling. 
+[2023.01.18-17.31.14:695][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D8B6AA2F2CCD4A6E266B16A3BEE01A51C0DEA0AB), compiling. 
+[2023.01.18-17.31.14:697][630]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 2247D9B8C0097457453E27C48E8CD7FDCD9BC01F), compiling. 
+[2023.01.18-17.31.14:720][630]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.31.14:721][630]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.14:721][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.14:721][630]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.31.14:727][630]LogViewport: Scene viewport resized to 279x294, mode Windowed.
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Total job queries 180, among them cache hits 16 (8.89%)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 50 distinct outputs (41.32%)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Shaders Compiled: 151
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Jobs assigned 129, completed 121 (93.80%)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Average time worker was idle: 3559.67 s
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 1.13 s
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Job execution time: average 28.13 s, max 58.98 s
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Job life time (pending + execution): average 28.15 s, max 58.99
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.82 s
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Jobs were issued in 41 batches (21 local, 20 distributed), average 3.15 jobs/batch (1.00 jobs/local batch. 5.40 jobs/distributed batch)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Average processing rate: 1.93 jobs/sec
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Effective parallelization: 1.00 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    7 times, average 0.69 sec, max 0.83 sec, min 0.61 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    7 times, average 0.64 sec, max 0.94 sec, min 0.52 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.60 sec, max 0.95 sec, min 0.50 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 0.59 sec, max 0.64 sec, min 0.56 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.70% of total time (compiled    7 times, average 0.69 sec, max 0.83 sec, min 0.61 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.12% of total time (compiled    7 times, average 0.64 sec, max 0.94 sec, min 0.52 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.69% of total time (compiled    7 times, average 0.60 sec, max 0.95 sec, min 0.50 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.52% of total time (compiled    7 times, average 0.58 sec, max 0.92 sec, min 0.50 sec)
+[2023.01.18-17.31.15:937][670]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.28% of total time (compiled    7 times, average 0.56 sec, max 0.84 sec, min 0.48 sec)
+[2023.01.18-17.31.15:938][670]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.31.16:019][671]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-17.31.16:019][671]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.16:019][671]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.16:019][671]MaterialEditorStats: Shader Count: 1
+[2023.01.18-17.31.16:765][695]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.31.16:765][695]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.16:765][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.16:765][695]MaterialEditorStats: Shader Count: 4
+[2023.01.18-17.31.31:778][899]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FDCB75AF0BD31B3A34D6171F151F9F1BBDBCEB78), compiling. 
+[2023.01.18-17.31.31:785][899]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 014D1BE067BCA175DB4CD676AD64A7B3E7DD4B95), compiling. 
+[2023.01.18-17.31.31:794][899]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.31.31:794][899]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.31:794][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.31:794][899]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.31.31:860][901]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.31.31:860][901]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.31:860][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.31:860][901]MaterialEditorStats: Shader Count: 6
+[2023.01.18-17.31.37:690][307]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 381A7CBADE9B836676E57DCDFC51877FA14156E3), compiling. 
+[2023.01.18-17.31.37:699][307]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.31.37:699][307]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.37:699][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.37:699][307]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.31.38:926][348]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-17.31.38:926][348]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.38:926][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.38:926][348]MaterialEditorStats: Shader Count: 2
+[2023.01.18-17.31.39:731][375]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.31.39:731][375]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.39:731][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.39:731][375]MaterialEditorStats: Shader Count: 6
+[2023.01.18-17.31.43:752][608]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 42126847CFF7EEF7AD167B8158CCE83266B1B621), compiling. 
+[2023.01.18-17.31.43:761][608]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 88C58D4474F7564F41C3B8075C0A6868474EC17B), compiling. 
+[2023.01.18-17.31.43:765][608]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.31.43:765][608]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.43:765][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.43:765][608]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.31.44:685][637]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-17.31.44:685][637]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.44:685][637]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.44:685][637]MaterialEditorStats: Shader Count: 1
+[2023.01.18-17.31.45:493][662]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.31.45:493][662]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.31.45:493][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.31.45:493][662]MaterialEditorStats: Shader Count: 7
+[2023.01.18-17.31.46:382][710]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-17.31.46:848][710]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6DEAB02F1D9D583A70F01C0A8BC2D8722B4BFF36), compiling. 
+[2023.01.18-17.31.46:870][710]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C50BB1FD5EF753B131F8F6CF90F5882BB10A9030), compiling. 
+[2023.01.18-17.31.47:024][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.18-17.31.48:397][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.18-17.31.50:520][710]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.01.18-17.31.51:363][710]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049906s
+[2023.01.18-17.32.21:924][710]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000006s (30.611021s overbudget)
+[2023.01.18-17.32.21:955][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-17.32.21:960][710]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-17.32.21:960][710]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster0CB7AEB4430FB7EF43371AADEA89BA33.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-17.32.21:975][710]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-17.32.21:975][710]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-17.32.21:976][710]MaterialEditorStats: Base pass shader: 158 instructions
+[2023.01.18-17.32.21:976][710]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-17.32.21:976][710]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-17.32.21:976][710]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.32.21:976][710]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.32.21:976][710]MaterialEditorStats: Shader Count: 70
+[2023.01.18-17.32.33:925][355]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 5A895B5C9A0F3727E398475D73BDD7BE826DE08A), compiling. 
+[2023.01.18-17.32.33:937][355]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.32.33:937][355]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.32.33:937][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.32.33:937][355]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.32.34:048][358]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.32.34:048][358]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.32.34:048][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.32.34:048][358]MaterialEditorStats: Shader Count: 12
+[2023.01.18-17.32.35:637][452]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8DC73B86B737468836A66747C8A2A450E55E663A), compiling. 
+[2023.01.18-17.32.35:640][452]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.32.35:640][452]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.32.35:640][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.32.35:640][452]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.32.35:705][454]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.32.35:706][454]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.32.35:706][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.32.35:706][454]MaterialEditorStats: Shader Count: 12
+[2023.01.18-17.32.37:152][541]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-17.32.37:581][541]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 91DA85659F093835ADFD1B2228201E45FC0D738E), compiling. 
+[2023.01.18-17.32.37:603][541]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7A1E089DCEEBF6084743BCA6FA8F8E2054D36CDB), compiling. 
+[2023.01.18-17.32.37:726][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.18-17.32.39:629][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.01.18-17.32.41:870][541]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-17.33.11:895][541]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002536s (30.153480s overbudget)
+[2023.01.18-17.33.11:938][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-17.33.11:943][541]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-17.33.11:944][541]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster999AA71D460DF911900845BCB42FF59A.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-17.33.11:958][541]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-17.33.11:958][541]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-17.33.11:959][541]MaterialEditorStats: Base pass shader: 157 instructions
+[2023.01.18-17.33.11:959][541]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-17.33.11:959][541]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-17.33.11:959][541]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.33.11:960][541]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.33.11:960][541]MaterialEditorStats: Shader Count: 70
+[2023.01.18-17.33.12:739][561]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F699BE38AC265D9DFEF15C6C79E9460910B1F1E7), compiling. 
+[2023.01.18-17.33.12:787][564]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.33.12:787][564]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.33.12:787][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.33.12:787][564]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.33.13:858][589]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-17.33.13:858][589]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.33.13:858][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.33.13:858][589]MaterialEditorStats: Shader Count: 1
+[2023.01.18-17.33.14:310][605]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-17.33.14:914][605]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: B0B026D72A01A00CDBCFBFBD36761A459E7D872C), compiling. 
+[2023.01.18-17.33.14:943][605]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C2E1E1E16716DBFAAB5696B67F68FB5583DA0B68), compiling. 
+[2023.01.18-17.33.15:094][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.01.18-17.33.16:701][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.18-17.33.18:834][605]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-17.33.48:847][605]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000018s (30.017497s overbudget)
+[2023.01.18-17.33.48:884][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-17.33.48:890][605]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-17.33.48:891][605]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster3573F5E54A1CAA0CE752F8B3DCE2D500.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-17.33.48:907][605]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-17.33.48:907][605]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-17.33.48:909][605]MaterialEditorStats: Base pass shader: 155 instructions
+[2023.01.18-17.33.48:909][605]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-17.33.48:909][605]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-17.33.48:909][605]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.33.48:909][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.33.48:909][605]MaterialEditorStats: Shader Count: 70
+[2023.01.18-17.34.53:890][320]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Foliage/Grass/M_Grass.M_Grass
+[2023.01.18-17.34.53:893][320]LogMaterial: Display: Missing cached shadermap for Preview:M_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 8E4C907C67DEDE541DADC9A427EEA4F213E1C2DC), compiling. 
+[2023.01.18-17.34.53:921][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-17.34.53:984][320]LogMaterial: Display: Missing cached shadermap for Preview:M_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 82CE6CE829D5E8534CE9E9B4558DFE824F313306), compiling. 
+[2023.01.18-17.34.53:990][320]LogMaterial: Display: Missing cached shadermap for Preview:M_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 708B18A4D7B93A8A0F406F8F259FA3BDE0661D8C), compiling. 
+[2023.01.18-17.34.53:992][320]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 341BF686067DEE200292707ACB289A82E723382C), compiling. 
+[2023.01.18-17.34.53:994][320]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BA091639DB19A2F260C26699F074A8F94F250A0), compiling. 
+[2023.01.18-17.34.53:995][320]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CEE76BD7B39E8528F6C41B6EAF2E61E15753AFF9), compiling. 
+[2023.01.18-17.34.53:997][320]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 38334098D16A20FA663243ABFDA6B5E851F4B7AD), compiling. 
+[2023.01.18-17.34.53:998][320]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 01F765911BA94DD25771FBA65219FE06DB32D64A), compiling. 
+[2023.01.18-17.34.54:019][320]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.34.54:019][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.01.18-17.34.54:019][320]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.34.54:025][320]LogViewport: Scene viewport resized to 279x294, mode Windowed.
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Total job queries 581, among them cache hits 175 (30.12%)
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Tracking 331 distinct input hashes that result in 191 distinct outputs (57.70%)
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: RAM used: 0.55 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Shaders Compiled: 183
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Jobs assigned 339, completed 331 (97.64%)
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Average time worker was idle: 749.21 s
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Job execution time: average 18.87 s, max 58.98 s
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Job life time (pending + execution): average 18.92 s, max 58.99
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 175.61 s
+[2023.01.18-17.34.54:889][352]LogShaderCompilers: Display: Jobs were issued in 125 batches (72 local, 53 distributed), average 2.71 jobs/batch (1.00 jobs/local batch. 5.04 jobs/distributed batch)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display: Average processing rate: 1.88 jobs/sec
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display: Effective parallelization: 1.10 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    7 times, average 1.19 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    7 times, average 0.88 sec, max 1.19 sec, min 0.56 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   13 times, average 0.87 sec, max 1.50 sec, min 0.61 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.87 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.87 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.79% of total time (compiled   15 times, average 0.87 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.77% of total time (compiled   15 times, average 0.87 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.08% of total time (compiled   14 times, average 0.84 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.89% of total time (compiled   13 times, average 0.87 sec, max 1.50 sec, min 0.61 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.75% of total time (compiled   13 times, average 0.71 sec, max 1.09 sec, min 0.52 sec)
+[2023.01.18-17.34.54:890][352]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.34.55:918][384]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.18-17.34.55:918][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.01.18-17.34.55:918][384]MaterialEditorStats: Shader Count: 7
+[2023.01.18-17.34.56:016][387]LogMaterial: Display: Missing cached shadermap for Preview:M_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 9F257044CB690906D79C9F6FC318EE6764A67AA9), compiling. 
+[2023.01.18-17.34.56:064][388]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.34.56:064][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.01.18-17.34.56:064][388]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.34.57:146][425]LogMaterialEditor: Saving and Compiling material M_Grass
+[2023.01.18-17.34.57:739][425]LogMaterial: Display: Missing cached shadermap for Preview:M_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 8186981B75F0D859D042CA8DCCD80FB7C3D392AC), compiling. 
+[2023.01.18-17.34.57:762][425]LogMaterial: Display: Missing cached shadermap for M_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 9C7D6541B6153CDC23D8AB3504D82B4AFF5AC7D5), compiling. 
+[2023.01.18-17.34.57:884][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.18-17.34.58:866][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.01.18-17.35.01:020][425]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-17.35.25:337][425]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002999s (24.324148s overbudget)
+[2023.01.18-17.35.25:419][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/Grass/M_Grass" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/Grass/M_Grass.uasset" SILENT=true
+[2023.01.18-17.35.25:423][425]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/Grass/M_Grass
+[2023.01.18-17.35.25:423][425]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_Grass590272EB475DB3D3AB45D39DCCB51F94.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/Grass/M_Grass.uasset'
+[2023.01.18-17.35.25:439][425]AssetCheck: New page: Asset Save: M_Grass
+[2023.01.18-17.35.25:439][425]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/Grass/M_Grass.M_Grass
+[2023.01.18-17.35.25:440][425]MaterialEditorStats: Base pass shader: 125 instructions
+[2023.01.18-17.35.25:440][425]MaterialEditorStats: Base pass vertex shader: 292 instructions
+[2023.01.18-17.35.25:440][425]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.35.25:440][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.01.18-17.35.25:440][425]MaterialEditorStats: Shader Count: 66
+[2023.01.18-17.45.26:398][302]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-17.45.26:398][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-17.45.28:287][411]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.45.28:287][411]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-17.45.28:287][411]LogShaderCompilers: Display: Total job queries 675, among them cache hits 199 (29.48%)
+[2023.01.18-17.45.28:287][411]LogShaderCompilers: Display: Tracking 404 distinct input hashes that result in 247 distinct outputs (61.14%)
+[2023.01.18-17.45.28:287][411]LogShaderCompilers: Display: RAM used: 0.68 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Shaders Compiled: 189
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Jobs assigned 407, completed 404 (99.26%)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Average time worker was idle: 638.86 s
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 1.53 s
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Job execution time: average 17.47 s, max 58.98 s
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Job life time (pending + execution): average 17.51 s, max 58.99
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 206.83 s
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Jobs were issued in 151 batches (87 local, 64 distributed), average 2.70 jobs/batch (1.00 jobs/local batch. 5.00 jobs/distributed batch)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Average processing rate: 1.95 jobs/sec
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 1.21 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   18 times, average 0.91 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 0.90 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   10 times, average 0.89 sec, max 1.25 sec, min 0.56 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   17 times, average 0.87 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.38% of total time (compiled   19 times, average 0.90 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.08% of total time (compiled   18 times, average 0.91 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.34% of total time (compiled   17 times, average 0.87 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.29% of total time (compiled   15 times, average 0.82 sec, max 1.50 sec, min 0.40 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.19% of total time (compiled   10 times, average 1.21 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-17.45.28:288][411]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.45.36:083][970]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 782D696FD720BAEA354A72D3A8763F16F714A604), compiling. 
+[2023.01.18-17.48.10:880][860]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 969F7FA60312204467B29C84C6D3EAD7B63DE14B), compiling. 
+[2023.01.18-17.48.10:893][860]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F4705439BD7E26F5336CD3111A577F45583768E0), compiling. 
+[2023.01.18-17.48.10:904][860]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: E4367755BC4903ABD8BA1C657208A6CE52B33657), compiling. 
+[2023.01.18-17.48.10:910][860]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.48.10:910][860]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.48.10:910][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.48.10:910][860]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.48.12:226][908]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-17.48.12:226][908]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.48.12:226][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.48.12:226][908]MaterialEditorStats: Shader Count: 2
+[2023.01.18-17.48.12:426][915]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-17.48.13:030][915]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7DEDA8893ACBA052E779252DF5B0CA2E41BB9590), compiling. 
+[2023.01.18-17.48.13:059][915]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 26059C4E7177003EA8610B38335E3D1110EF03C9), compiling. 
+[2023.01.18-17.48.13:239][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.01.18-17.48.14:633][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.18-17.48.17:272][915]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-17.48.47:631][915]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004927s (30.495740s overbudget)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Total job queries 771, among them cache hits 220 (28.53%)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Tracking 477 distinct input hashes that result in 268 distinct outputs (56.18%)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: RAM used: 0.75 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Shaders Compiled: 197
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Jobs assigned 477, completed 477 (100.00%)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Average time worker was idle: 565.53 s
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 1.53 s
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Job execution time: average 16.93 s, max 58.98 s
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Job life time (pending + execution): average 16.98 s, max 58.99
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 244.29 s
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Jobs were issued in 179 batches (104 local, 75 distributed), average 2.66 jobs/batch (1.00 jobs/local batch. 4.97 jobs/distributed batch)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Average processing rate: 1.95 jobs/sec
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   12 times, average 1.19 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   23 times, average 0.93 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.91 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   12 times, average 0.91 sec, max 1.25 sec, min 0.56 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   20 times, average 0.88 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.70% of total time (compiled   23 times, average 0.93 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.54% of total time (compiled   23 times, average 0.91 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.33% of total time (compiled   20 times, average 0.88 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.16% of total time (compiled   12 times, average 1.19 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.14% of total time (compiled   17 times, average 0.84 sec, max 1.50 sec, min 0.40 sec)
+[2023.01.18-17.48.47:642][915]LogShaderCompilers: Display: ================================================
+[2023.01.18-17.48.47:684][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-17.48.47:693][915]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-17.48.47:694][915]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterEBF8E4144776D02672F7EE93E86BDA5E.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-17.48.47:712][915]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-17.48.47:712][915]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-17.48.47:714][915]MaterialEditorStats: Base pass shader: 150 instructions
+[2023.01.18-17.48.47:714][915]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-17.48.47:714][915]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-17.48.47:714][915]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.48.47:714][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.48.47:714][915]MaterialEditorStats: Shader Count: 70
+[2023.01.18-17.49.02:043][286]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 615C4D25AC21E8D03A1D957375180D1E547BF359), compiling. 
+[2023.01.18-17.49.02:054][286]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: EFA61F983A3248E40757D799D877D6B4F22621ED), compiling. 
+[2023.01.18-17.49.02:064][286]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 82589A215089437997E40277904CA375698576D7), compiling. 
+[2023.01.18-17.49.02:068][286]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.49.02:068][286]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.49.02:068][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.49.02:068][286]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.49.02:131][288]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.49.02:131][288]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.49.02:131][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.49.02:131][288]MaterialEditorStats: Shader Count: 12
+[2023.01.18-17.50.08:342][285]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6CF82674B180057FF2A4C840033441668975DAAC), compiling. 
+[2023.01.18-17.50.08:389][286]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.50.08:389][286]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.08:389][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.08:389][286]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.50.08:406][287]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.50.08:406][287]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.08:406][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.08:406][287]MaterialEditorStats: Shader Count: 12
+[2023.01.18-17.50.32:742][192]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0E2CA0851CBF00F48ED2F2BCAE2446D3DB693BF9), compiling. 
+[2023.01.18-17.50.32:745][192]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObject_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AB4E3CB0C36AF00851872F454E1039DA4C96B28), compiling. 
+[2023.01.18-17.50.32:748][192]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.50.32:748][192]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.32:748][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.32:748][192]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.50.32:818][194]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.50.32:818][194]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.32:818][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.32:818][194]MaterialEditorStats: Shader Count: 12
+[2023.01.18-17.50.36:239][399]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: BD44BFDEA7BD309EF556BCA2FB35D87E3F1094AD), compiling. 
+[2023.01.18-17.50.36:243][399]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.50.36:243][399]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.36:243][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.36:243][399]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.50.36:301][401]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-17.50.36:301][401]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.36:301][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.36:301][401]MaterialEditorStats: Shader Count: 12
+[2023.01.18-17.50.43:535][919]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 51A87E0F7A8352A9E3EA3122BF10B08C88B92B4E), compiling. 
+[2023.01.18-17.50.43:545][919]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-17.50.43:545][919]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.50.43:545][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.50.43:545][919]MaterialEditorStats: Shader Count: 0
+[2023.01.18-17.50.44:468][956]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-17.50.45:082][956]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: CEA7CBA8A2218E3581164B37ACA4FF45188B844F), compiling. 
+[2023.01.18-17.50.45:110][956]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 2C299388154468566C055912165E74B466A15DA4), compiling. 
+[2023.01.18-17.50.45:299][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.01.18-17.50.47:098][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.18-17.50.49:240][956]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-17.51.18:161][956]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002989s (28.928434s overbudget)
+[2023.01.18-17.51.18:193][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-17.51.18:198][956]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-17.51.18:199][956]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterCB3CC3964AE0CC946F3CD9831A7F87DF.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-17.51.18:211][956]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-17.51.18:212][956]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-17.51.18:214][956]MaterialEditorStats: Base pass shader: 155 instructions
+[2023.01.18-17.51.18:214][956]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-17.51.18:214][956]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-17.51.18:214][956]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-17.51.18:214][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-17.51.18:214][956]MaterialEditorStats: Shader Count: 70
+[2023.01.18-17.58.47:894][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.18-17.58.47:941][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_ArtTesting_Auto3
+[2023.01.18-17.58.47:941][206]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting_Auto3F12E72D348C05904ECBAB9A2712C77BD.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/Maps/Map_ArtTesting_Auto3.umap'
+[2023.01.18-17.58.47:945][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.060
+[2023.01.18-17.58.47:945][206]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2023.01.18-18.01.21:239][790]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: EF4C6282EE308FD7051D6519947E6F39E9752213), compiling. 
+[2023.01.18-18.01.21:246][790]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.21:246][790]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.21:246][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.21:246][790]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Total job queries 950, among them cache hits 315 (33.16%)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Tracking 547 distinct input hashes that result in 330 distinct outputs (60.33%)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: RAM used: 0.92 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Shaders Compiled: 201
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Jobs assigned 547, completed 547 (100.00%)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Average time worker was idle: 491.02 s
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Job execution time: average 16.41 s, max 58.98 s
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Job life time (pending + execution): average 16.46 s, max 58.99
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 280.79 s
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Jobs were issued in 207 batches (121 local, 86 distributed), average 2.64 jobs/batch (1.00 jobs/local batch. 4.95 jobs/distributed batch)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Average processing rate: 1.95 jobs/sec
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   14 times, average 1.16 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   27 times, average 0.93 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   14 times, average 0.92 sec, max 1.35 sec, min 0.56 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   27 times, average 0.90 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   22 times, average 0.89 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.88% of total time (compiled   27 times, average 0.93 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.64% of total time (compiled   27 times, average 0.90 sec, max 1.68 sec, min 0.48 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.10% of total time (compiled   22 times, average 0.89 sec, max 1.60 sec, min 0.50 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.15% of total time (compiled   19 times, average 0.87 sec, max 1.50 sec, min 0.40 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.10% of total time (compiled   14 times, average 1.16 sec, max 1.67 sec, min 0.59 sec)
+[2023.01.18-18.01.21:297][791]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.01.21:310][792]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.21:310][792]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.21:310][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.21:310][792]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.24:316][  7]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 72EB2B7A4F52C50473BC6AF932EA1033C44DE1EB), compiling. 
+[2023.01.18-18.01.24:321][  7]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 05B42461B8A176C3892F6D74D150CFF76D7490B4), compiling. 
+[2023.01.18-18.01.24:328][  7]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.24:329][  7]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.24:329][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.24:329][  7]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.24:415][ 10]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.24:415][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.24:415][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.24:415][ 10]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.26:855][161]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 43B5EAA5A675E63EAF620C665955D0D0F765AEAC), compiling. 
+[2023.01.18-18.01.26:858][161]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BE61325EFBFA5EB19BA98ED6E408D0CC8976BBD9), compiling. 
+[2023.01.18-18.01.26:860][161]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 42261CB537FF3A9C7B81E151EFE6AA21671E7F7C), compiling. 
+[2023.01.18-18.01.26:868][161]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.26:868][161]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.26:868][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.26:868][161]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.26:932][163]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.26:932][163]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.26:932][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.26:932][163]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.29:855][364]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C30ADE8A82600BFA4719977680ADFD2657EE5310), compiling. 
+[2023.01.18-18.01.29:858][364]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FF3F354F33DA30A4FEE2B2B530A9D855F279B48E), compiling. 
+[2023.01.18-18.01.29:865][364]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.29:865][364]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.29:865][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.29:865][364]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.29:959][367]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.29:959][367]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.29:959][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.29:959][367]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.32:816][512]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: CB40E9F50DB3FBB2A11393525EA3931900FF7C66), compiling. 
+[2023.01.18-18.01.32:820][512]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 86B092ED1ED2874A21A42D30AA19B7F2181B04B1), compiling. 
+[2023.01.18-18.01.32:826][512]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.32:826][512]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.32:826][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.32:826][512]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.32:863][514]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.01.32:863][514]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.32:863][514]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.32:863][514]MaterialEditorStats: Shader Count: 2
+[2023.01.18-18.01.32:888][515]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.32:888][515]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.32:888][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.32:888][515]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.33:782][560]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C602EBA3A61B027956685A14F8ED6F2780CA766A), compiling. 
+[2023.01.18-18.01.33:785][560]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 35387E5EE9353F2148EC7273C304143F2E728E27), compiling. 
+[2023.01.18-18.01.33:789][560]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-18.01.33:798][560]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.33:798][560]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.33:798][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.33:798][560]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.33:885][563]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.33:885][563]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.33:885][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.33:885][563]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.35:585][672]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 22EF1B877C673183B4864C52A9783D48949ED97C), compiling. 
+[2023.01.18-18.01.35:588][672]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 991BC7E535B06FB64B30F204D7A207E293502BC4), compiling. 
+[2023.01.18-18.01.35:596][672]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.35:596][672]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.35:596][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.35:596][672]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.35:688][675]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.35:688][675]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.35:688][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.35:688][675]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.37:835][825]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 43682CB1D27B8D7586D87D56F4AD5773B73C3F0D), compiling. 
+[2023.01.18-18.01.37:849][825]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.37:849][825]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.37:849][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.37:849][825]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.37:953][828]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.01.37:953][828]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.37:953][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.37:953][828]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.01.40:475][ 17]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 57F2D1097FAEDA2E8A5BB81955CAEEAFA8E3DC26), compiling. 
+[2023.01.18-18.01.40:486][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.01.40:486][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.01.40:486][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.01.40:486][ 17]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.01.41:478][ 49]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.01.42:080][ 49]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 230403C229E043962ED274D2D60E382C7F191255), compiling. 
+[2023.01.18-18.01.42:112][ 49]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: B8BE649FC712AAE31F1C3F5483E267866D5AD0EF), compiling. 
+[2023.01.18-18.01.42:144][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.01.18-18.01.44:094][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.01.18-18.01.46:229][ 49]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.02.18:218][ 49]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004489s (32.003888s overbudget)
+[2023.01.18-18.02.18:238][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.02.18:244][ 49]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.02.18:244][ 49]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster9F9D110B4059BE398F0A85BC1685E3C8.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.02.18:257][ 49]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.02.18:257][ 49]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.02.18:258][ 49]MaterialEditorStats: Base pass shader: 156 instructions
+[2023.01.18-18.02.18:258][ 49]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.02.18:258][ 49]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.02.18:258][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.02.18:258][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.02.18:258][ 49]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.02.52:540][852]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Foliage/Grass/M_Grass.M_Grass
+[2023.01.18-18.02.52:543][852]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7867714AF057CC7D0C4DA45E0EBB75B67A054179), compiling. 
+[2023.01.18-18.02.52:569][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-18.02.52:627][852]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2ECD74FB30D0EA9BE0D2FCF2B49F8B62741A4641), compiling. 
+[2023.01.18-18.02.52:632][852]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A8C4516156EC0A16FDA67DF2A479CBF956A7743), compiling. 
+[2023.01.18-18.02.52:634][852]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A080CC8A71C404B1E78C1425AF481A88EBD2CE95), compiling. 
+[2023.01.18-18.02.52:636][852]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F74635901D07EC4BD4D0A6F03F270580045EBEAD), compiling. 
+[2023.01.18-18.02.52:637][852]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 262F928758DDFAEAF978F86E0DC45411726000CE), compiling. 
+[2023.01.18-18.02.52:639][852]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A0EBCE6FAC4D4100D4FB9F3D23607CE8D645054), compiling. 
+[2023.01.18-18.02.52:640][852]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_4 in PCD3D_SM5, Default, SM5 (DDC key hash: A9121660F97410C58E7D717C81D3F57E2F181023), compiling. 
+[2023.01.18-18.02.52:663][852]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.02.52:663][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.01.18-18.02.52:663][852]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.02.52:670][852]LogViewport: Scene viewport resized to 279x294, mode Windowed.
+[2023.01.18-18.02.54:367][904]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.18-18.02.54:367][904]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.01.18-18.02.54:367][904]MaterialEditorStats: Shader Count: 3
+[2023.01.18-18.03.35:938][344]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 5036B793D9D037683D42436A5452F95FF4A8AC78), compiling. 
+[2023.01.18-18.03.35:943][344]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.03.35:943][344]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.03.35:943][344]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.03.35:943][344]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.03.36:006][346]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.03.36:006][346]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.03.36:006][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.03.36:006][346]MaterialEditorStats: Shader Count: 2
+[2023.01.18-18.03.36:039][347]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.03.36:039][347]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.03.36:039][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.03.36:039][347]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.03.39:090][570]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 9A425A0B3ECFA2128249ED9A13A821F3661309B0), compiling. 
+[2023.01.18-18.03.39:107][570]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.03.39:107][570]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.03.39:107][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.03.39:107][570]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.03.40:253][607]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.03.40:855][607]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: E16876BAF6D11CF9DBFBA5044116E0520C8DCC18), compiling. 
+[2023.01.18-18.03.40:886][607]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: DF3CBE7259A1AC41C9A89B3F2730A098E16A74C4), compiling. 
+[2023.01.18-18.03.41:073][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.18-18.03.42:754][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.01.18-18.03.45:036][607]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.04.10:656][607]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001520s (25.771767s overbudget)
+[2023.01.18-18.04.10:683][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.04.10:688][607]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.04.10:688][607]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterC16779D14D88267710F293B2EAA1A93A.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.04.10:966][607]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.04.10:966][607]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.04.10:967][607]MaterialEditorStats: Base pass shader: 156 instructions
+[2023.01.18-18.04.10:967][607]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.04.10:967][607]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.04.10:967][607]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.04.10:967][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.04.10:967][607]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.04.19:233][120]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7F50C9E7FE06F3EE3D39D4F712AF1252B955C0AA), compiling. 
+[2023.01.18-18.04.19:236][120]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.04.19:237][120]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.04.19:237][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.04.19:237][120]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.04.19:292][122]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.04.19:292][122]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.04.19:292][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.04.19:292][122]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.04.58:425][  2]LogAssetEditorSubsystem: Opening Asset editor for LandscapeGrassType /Game/t017849k/Foliage/Grass/GT_Default.GT_Default
+[2023.01.18-18.05.16:535][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/Grass/GT_Default" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/Grass/GT_Default.uasset" SILENT=true
+[2023.01.18-18.05.16:536][467]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/Grass/GT_Default
+[2023.01.18-18.05.16:536][467]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/GT_Default1D33524043308C31367A239591537357.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/Grass/GT_Default.uasset'
+[2023.01.18-18.05.16:560][467]AssetCheck: New page: Asset Save: GT_Default
+[2023.01.18-18.05.16:560][467]LogContentValidation: Display: Validating LandscapeGrassType /Game/t017849k/Foliage/Grass/GT_Default.GT_Default
+[2023.01.18-18.06.59:479][413]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: B5B708D82BE1DB9BE80501C038CF753EEA11368B), compiling. 
+[2023.01.18-18.06.59:490][413]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.06.59:490][413]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.06.59:490][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.06.59:490][413]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.07.00:366][444]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.07.00:941][444]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7ED57406D4F6CD685FCBCE7AB0F3A2B5B458980D), compiling. 
+[2023.01.18-18.07.00:969][444]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 67A74DB88163E42F25727F436A63BFC22ECF2477), compiling. 
+[2023.01.18-18.07.01:097][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Total job queries 1454, among them cache hits 592 (40.72%)
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Tracking 705 distinct input hashes that result in 417 distinct outputs (59.15%)
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: RAM used: 1.18 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Shaders Compiled: 234
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Jobs assigned 711, completed 705 (99.16%)
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Average time worker was idle: 353.05 s
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Job execution time: average 15.25 s, max 58.98 s
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Job life time (pending + execution): average 15.30 s, max 58.99
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 356.34 s
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Jobs were issued in 293 batches (187 local, 106 distributed), average 2.43 jobs/batch (1.00 jobs/local batch. 4.94 jobs/distributed batch)
+[2023.01.18-18.07.01:257][444]LogShaderCompilers: Display: Average processing rate: 1.98 jobs/sec
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   20 times, average 1.16 sec, max 1.67 sec, min 0.58 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   19 times, average 0.98 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   38 times, average 0.95 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   28 times, average 0.95 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   38 times, average 0.93 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.45% of total time (compiled   38 times, average 0.95 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.24% of total time (compiled   38 times, average 0.93 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.19% of total time (compiled   28 times, average 0.95 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.43% of total time (compiled   20 times, average 1.16 sec, max 1.67 sec, min 0.58 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.86% of total time (compiled   23 times, average 0.90 sec, max 1.50 sec, min 0.40 sec)
+[2023.01.18-18.07.01:258][444]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.07.02:492][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.01.18-18.07.04:614][444]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.07.32:225][444]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002004s (27.616280s overbudget)
+[2023.01.18-18.07.32:248][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.07.32:252][444]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.07.32:253][444]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster34D8226840F0A6F90A5896B4FEDC91C8.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.07.32:258][444]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.07.32:258][444]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.07.32:259][444]MaterialEditorStats: Base pass shader: 135 instructions
+[2023.01.18-18.07.32:259][444]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.07.32:259][444]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.07.32:259][444]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.07.32:259][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.07.32:259][444]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.07.44:517][299]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D8BC595BAF40BD00E88AAFEF9FEB19CE8B3CFE8B), compiling. 
+[2023.01.18-18.07.44:525][299]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.07.44:525][299]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.07.44:525][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.07.44:525][299]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.07.45:353][333]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.07.45:929][333]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: A27AD585A3918FAF0457AA1C6A0FB2BD531A188B), compiling. 
+[2023.01.18-18.07.45:958][333]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 261EF2D400C263F1FF70D22DA5975657B0E28600), compiling. 
+[2023.01.18-18.07.45:974][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.18-18.07.47:465][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.18-18.07.49:586][333]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.08.15:160][333]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003983s (25.587761s overbudget)
+[2023.01.18-18.08.15:183][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.08.15:188][333]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.08.15:188][333]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster77460A0E4EDDE10FF5843392A6ECE0F9.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.08.15:209][333]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.08.15:209][333]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.08.15:210][333]MaterialEditorStats: Base pass shader: 135 instructions
+[2023.01.18-18.08.15:210][333]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.08.15:210][333]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.08.15:210][333]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.08.15:210][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.08.15:210][333]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.08.40:793][223]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: B61E005B22D4CA5A325568779F1C359F0A0781A4), compiling. 
+[2023.01.18-18.08.40:800][223]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.08.40:800][223]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.08.40:800][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.08.40:800][223]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.08.40:859][225]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.08.40:859][225]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.08.40:859][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.08.40:859][225]MaterialEditorStats: Shader Count: 6
+[2023.01.18-18.08.44:827][541]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 9414038054F00A707018C32D15A67148D9C92A80), compiling. 
+[2023.01.18-18.08.44:836][541]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.08.44:836][541]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.08.44:836][541]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.08.44:836][541]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.08.45:794][577]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.08.46:400][577]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 70A918B8A5E23F8EABCC3D59FCE8C78DB1FFC6A2), compiling. 
+[2023.01.18-18.08.46:429][577]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8338BB6A5345B692C74D48CB94F407914B580613), compiling. 
+[2023.01.18-18.08.46:446][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.18-18.08.47:737][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.18-18.08.49:858][577]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.09.15:865][577]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000496s (26.010691s overbudget)
+[2023.01.18-18.09.15:888][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.09.15:893][577]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.09.15:893][577]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster820075D94C5563D429F356A27E1973FD.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.09.15:911][577]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.09.15:911][577]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.09.15:912][577]MaterialEditorStats: Base pass shader: 135 instructions
+[2023.01.18-18.09.15:912][577]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.09.15:912][577]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.09.15:912][577]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.09.15:912][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.09.15:913][577]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.09.35:907][ 14]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 43C95E8CD80D7B1440EB1D49F6E50C0FAB3AC771), compiling. 
+[2023.01.18-18.09.35:908][ 14]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_TreeMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node PixelNormalWS) Invalid node PixelNormalWS used for Normal input.
+
+[2023.01.18-18.09.35:917][ 14]MaterialEditorStats: Error: [SM5] (Node PixelNormalWS) Invalid node PixelNormalWS used for Normal input.
+[2023.01.18-18.09.37:029][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.18-18.09.37:071][ 96]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_ArtTesting_Auto4
+[2023.01.18-18.09.37:072][ 96]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting_Auto413B51A7847587B74478770A397FFE820.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/Maps/Map_ArtTesting_Auto4.umap'
+[2023.01.18-18.09.37:076][ 96]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.054
+[2023.01.18-18.09.37:076][ 96]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2023.01.18-18.09.41:274][439]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F180C4E54ECAB1CB3EF91488DB5684229044953D), compiling. 
+[2023.01.18-18.09.41:275][439]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_TreeMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node PixelNormalWS) Invalid node PixelNormalWS used for Normal input.
+
+[2023.01.18-18.09.42:215][505]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.09.44:793][505]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.01.18-18.10.04:233][990]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 1133CA71E11ECCB4B2FB67B3F991BE40E038FAC5), compiling. 
+[2023.01.18-18.10.04:234][990]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_TreeMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node PixelNormalWS) Invalid node PixelNormalWS used for Normal input.
+
+[2023.01.18-18.10.04:238][990]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F3F65FB485971605F15536EB60ABED8F001D0539), compiling. 
+[2023.01.18-18.10.04:240][990]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_TreeMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node PixelNormalWS) Invalid node PixelNormalWS used for Normal input.
+
+[2023.01.18-18.10.07:377][226]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 416FE472847C71414A477F7C2834EDCDC6B91651), compiling. 
+[2023.01.18-18.10.07:379][226]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_TreeMaster (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node PixelNormalWS) Invalid node PixelNormalWS used for Normal input.
+
+[2023.01.18-18.10.08:768][319]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.10.11:274][319]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.01.18-18.10.13:915][490]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 73E1DAFEB8FFFB38602D8062D99CDC5CE2E6B5D7), compiling. 
+[2023.01.18-18.10.13:918][490]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.10.13:918][490]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.10.13:918][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.10.13:918][490]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Total job queries 1724, among them cache hits 644 (37.35%)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Tracking 898 distinct input hashes that result in 506 distinct outputs (56.35%)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: RAM used: 1.45 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Shaders Compiled: 234
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Jobs assigned 906, completed 898 (99.12%)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Average time worker was idle: 300.90 s
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Job execution time: average 14.79 s, max 58.98 s
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Job life time (pending + execution): average 14.83 s, max 58.99
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 449.55 s
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Jobs were issued in 362 batches (223 local, 139 distributed), average 2.50 jobs/batch (1.00 jobs/local batch. 4.91 jobs/distributed batch)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Average processing rate: 2.00 jobs/sec
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Effective parallelization: 1.17 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   25 times, average 1.11 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   25 times, average 0.96 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   43 times, average 0.95 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   33 times, average 0.94 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   43 times, average 0.91 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.73% of total time (compiled   43 times, average 0.95 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.48% of total time (compiled   43 times, average 0.91 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.88% of total time (compiled   33 times, average 0.94 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.27% of total time (compiled   25 times, average 1.11 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.10.15:141][533]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.84% of total time (compiled   29 times, average 0.88 sec, max 1.50 sec, min 0.40 sec)
+[2023.01.18-18.10.15:142][533]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.10.15:169][534]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.10.15:169][534]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.10.15:169][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.10.15:169][534]MaterialEditorStats: Shader Count: 2
+[2023.01.18-18.10.16:410][576]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 3566D0140BB8186538E3AEC59AB7FB4FE497D1AC), compiling. 
+[2023.01.18-18.10.16:421][576]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.10.16:421][576]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.10.16:421][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.10.16:422][576]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.10.16:493][579]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.10.16:493][579]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.10.16:493][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.10.16:493][579]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.10.18:212][703]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.10.18:639][703]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 61E660D4A82EE4F5CDD6DADC31132F6E01A9041B), compiling. 
+[2023.01.18-18.10.18:657][703]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0A0387269A4CB13C9EF02D469E2DB331854CAC5C), compiling. 
+[2023.01.18-18.10.18:669][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.18-18.10.18:896][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.01.18-18.10.19:034][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.10.19:038][703]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.10.19:038][703]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster17C544274C8C85BFA1BDC584AD0EC7C3.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.10.19:050][703]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.10.19:050][703]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.10.19:051][703]MaterialEditorStats: Base pass shader: 156 instructions
+[2023.01.18-18.10.19:051][703]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.10.19:051][703]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.10.19:051][703]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.10.19:051][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.10.19:051][703]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.13.52:120][984]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 75CA784C72A601A9CABF27154B54FD53D8D580C0), compiling. 
+[2023.01.18-18.13.52:125][984]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.13.52:125][984]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.13.52:125][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.13.52:125][984]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Total job queries 1837, among them cache hits 747 (40.66%)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Tracking 907 distinct input hashes that result in 507 distinct outputs (55.90%)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: RAM used: 1.46 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Shaders Compiled: 234
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Jobs assigned 915, completed 907 (99.13%)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Average time worker was idle: 296.54 s
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Job execution time: average 14.66 s, max 58.98 s
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Job life time (pending + execution): average 14.71 s, max 58.99
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 452.24 s
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Jobs were issued in 371 batches (232 local, 139 distributed), average 2.47 jobs/batch (1.00 jobs/local batch. 4.91 jobs/distributed batch)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Average processing rate: 2.01 jobs/sec
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Effective parallelization: 1.18 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   26 times, average 1.12 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   26 times, average 0.97 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   44 times, average 0.96 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   34 times, average 0.95 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 0.93 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.90% of total time (compiled   44 times, average 0.96 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.65% of total time (compiled   44 times, average 0.93 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.07% of total time (compiled   34 times, average 0.95 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.45% of total time (compiled   26 times, average 1.12 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.77% of total time (compiled   29 times, average 0.88 sec, max 1.50 sec, min 0.40 sec)
+[2023.01.18-18.13.53:211][ 26]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.13.53:290][ 27]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.13.53:290][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.13.53:290][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.13.53:291][ 27]MaterialEditorStats: Shader Count: 1
+[2023.01.18-18.13.54:094][ 54]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.13.54:094][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.13.54:094][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.13.54:094][ 54]MaterialEditorStats: Shader Count: 7
+[2023.01.18-18.14.01:128][698]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8184712C0DBEB7BF411820B2EE3123C16C57557F), compiling. 
+[2023.01.18-18.14.22:300][536]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 64EE05A98569E1AB02BA2C1A675CD8666BA3BCE4), compiling. 
+[2023.01.18-18.14.22:346][537]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.22:346][537]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.22:346][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.22:346][537]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.22:361][538]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.22:361][538]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.22:361][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.22:361][538]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.14.25:556][763]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F88F4B2A00FD6B9B85C4A783E0EC309D11268FED), compiling. 
+[2023.01.18-18.14.26:623][865]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 2EB219FCBDEB9252D2B244F8C5FB2030EB00BD2E), compiling. 
+[2023.01.18-18.14.26:631][865]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FB5311E7A22C6B8F0A303780F21C578AEB78B71E), compiling. 
+[2023.01.18-18.14.26:640][865]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.26:640][865]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.26:640][865]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.26:640][865]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.26:727][868]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.26:727][868]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.26:727][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.26:727][868]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.14.27:075][886]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: E6394E3E89D9F2C39EBDA6B67753D47B9D46C232), compiling. 
+[2023.01.18-18.14.27:940][958]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: BD837F1425D0CF4EF06ED50F0C432B1ED138BE75), compiling. 
+[2023.01.18-18.14.27:950][958]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 10F7ABB112ACEFF01DDC6DCB31FE2611ACFD591F), compiling. 
+[2023.01.18-18.14.27:963][958]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.27:963][958]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.27:963][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.27:963][958]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.28:048][961]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.28:048][961]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.28:048][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.28:048][961]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.14.29:873][105]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7CED7BC5E9E90CCE34D16380B7641A37269152B2), compiling. 
+[2023.01.18-18.14.29:882][105]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.29:882][105]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.29:882][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.29:882][105]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.29:962][108]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.29:962][108]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.29:963][108]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.29:963][108]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.14.44:287][415]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 5A8ECAC98BA6782F3070D682898498636DE00D31), compiling. 
+[2023.01.18-18.14.44:298][415]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 10F7F54387FED4F95A283466ABE69C36DB8747AE), compiling. 
+[2023.01.18-18.14.44:307][415]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D3DA7AC5887BDB16FCCEDB4036509B524F52EBF8), compiling. 
+[2023.01.18-18.14.44:311][415]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.44:312][415]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.44:312][415]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.44:312][415]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.45:411][460]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.14.45:411][460]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.45:411][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.45:412][460]MaterialEditorStats: Shader Count: 2
+[2023.01.18-18.14.46:321][487]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.46:321][487]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.46:322][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.46:322][487]MaterialEditorStats: Shader Count: 7
+[2023.01.18-18.14.49:626][768]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 69063C7205CFF921C194EEFC046447FC1B4D94D2), compiling. 
+[2023.01.18-18.14.49:632][768]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.49:632][768]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.49:632][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.49:632][768]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.49:694][770]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.14.49:694][770]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.49:694][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.49:694][770]MaterialEditorStats: Shader Count: 2
+[2023.01.18-18.14.49:723][771]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.49:723][771]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.49:723][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.49:723][771]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.14.58:822][508]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6A424CC2ED4EA4B68312D75AA1AEC832E32BA78E), compiling. 
+[2023.01.18-18.14.58:826][508]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.14.58:826][508]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.58:826][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.58:826][508]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.14.58:888][510]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.14.58:888][510]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.14.58:888][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.14.58:888][510]MaterialEditorStats: Shader Count: 6
+[2023.01.18-18.15.01:064][683]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8878C9E8617B5F94BF6174E971FB1AFED40D94AC), compiling. 
+[2023.01.18-18.15.01:074][683]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.15.01:074][683]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.15.01:074][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.15.01:074][683]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.15.01:154][686]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.15.01:154][686]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.15.01:154][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.15.01:154][686]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.15.02:420][790]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7FE2772ED33C24DA079C0CC49071BDD305379137), compiling. 
+[2023.01.18-18.15.02:431][790]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.15.02:431][790]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.15.02:431][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.15.02:431][790]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.15.02:507][793]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.15.02:507][793]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.15.02:507][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.15.02:507][793]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.15.33:067][276]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 21534E7F5133121E1385F8E7869EF0F0FE8EC468), compiling. 
+[2023.01.18-18.15.33:076][276]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.15.33:076][276]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.15.33:076][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.15.33:076][276]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.15.33:854][308]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.15.34:454][308]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 55748DF7C5755C35580DF72CEF285BB5C29BB3BB), compiling. 
+[2023.01.18-18.15.34:485][308]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FB1213504C8FE63471FB50A20264AE3DF038A46E), compiling. 
+[2023.01.18-18.15.34:500][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.18-18.15.36:194][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.01.18-18.15.38:327][308]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.16.05:732][308]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000015s (27.421363s overbudget)
+[2023.01.18-18.16.05:784][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.16.05:791][308]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.16.05:791][308]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterC76B6B8045DD10CD1B1A5BB004A8C72B.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.16.05:802][308]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.16.05:802][308]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.16.05:803][308]MaterialEditorStats: Base pass shader: 158 instructions
+[2023.01.18-18.16.05:803][308]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.16.05:803][308]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.16.05:803][308]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.16.05:803][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.16.05:803][308]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.16.22:135][464]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 23C991470852750BE4E4B2F94AB33AAFD000B5AC), compiling. 
+[2023.01.18-18.16.22:145][464]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7DA05022ED19CAE5A1F2EBA8C347C2BA36EA68FF), compiling. 
+[2023.01.18-18.16.22:155][464]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 1E17CCFC3C953FA44CAA49C95852EEEB8D35A0F8), compiling. 
+[2023.01.18-18.16.22:163][464]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.16.22:163][464]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.16.22:163][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.16.22:163][464]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.16.23:127][502]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.16.23:707][502]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D751D329498E173579F566EC14B661208B5406BC), compiling. 
+[2023.01.18-18.16.23:737][502]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: CB075BC48A07D7ADFB17BCFF9D6BD3DB9B288C1C), compiling. 
+[2023.01.18-18.16.23:755][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.01.18-18.16.25:551][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.01.18-18.16.27:694][502]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.16.55:613][502]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004016s (27.933825s overbudget)
+[2023.01.18-18.16.55:621][502]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Total job queries 2263, among them cache hits 1003 (44.32%)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Tracking 1058 distinct input hashes that result in 547 distinct outputs (51.70%)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: RAM used: 1.58 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Shaders Compiled: 234
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Jobs assigned 1058, completed 1058 (100.00%)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Average time worker was idle: 258.90 s
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Job execution time: average 14.25 s, max 58.98 s
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Job life time (pending + execution): average 14.30 s, max 58.99
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 521.96 s
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Jobs were issued in 430 batches (269 local, 161 distributed), average 2.46 jobs/batch (1.00 jobs/local batch. 4.90 jobs/distributed batch)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   32 times, average 1.12 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   50 times, average 0.98 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   40 times, average 0.98 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   32 times, average 0.96 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   50 times, average 0.96 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.86% of total time (compiled   50 times, average 0.98 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.66% of total time (compiled   50 times, average 0.96 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.26% of total time (compiled   40 times, average 0.98 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.75% of total time (compiled   32 times, average 1.12 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.91% of total time (compiled   32 times, average 0.96 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.16.55:622][502]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.16.55:656][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.16.55:662][502]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.16.55:663][502]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterED7A82414A45A92F4970F78E1DDBC562.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.16.55:675][502]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.16.55:675][502]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.16.55:677][502]MaterialEditorStats: Base pass shader: 164 instructions
+[2023.01.18-18.16.55:677][502]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.16.55:677][502]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.16.55:677][502]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.16.55:677][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.16.55:677][502]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.18.12:516][211]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D0B9DAD3033E9210904841E70889F6C399036A01), compiling. 
+[2023.01.18-18.18.12:525][211]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.18.12:525][211]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.18.12:525][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.18.12:525][211]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.18.13:386][245]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.18.13:977][245]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7C285BB9499298AE7E9CC8E6C0EAC20E845FCCB7), compiling. 
+[2023.01.18-18.18.14:009][245]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 641B7292EAB402D8891D5488BB11B0980E1D6A0D), compiling. 
+[2023.01.18-18.18.14:028][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.18-18.18.15:832][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.18-18.18.17:968][245]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.18.46:112][245]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000979s (28.148334s overbudget)
+[2023.01.18-18.18.46:156][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.18.46:161][245]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.18.46:162][245]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster38AD52A94CC7C617B8EBEDB0B3EBA294.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.18.46:173][245]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.18.46:173][245]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.18.46:174][245]MaterialEditorStats: Base pass shader: 166 instructions
+[2023.01.18-18.18.46:174][245]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.18.46:174][245]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.18.46:174][245]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.18.46:174][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.18.46:174][245]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.19.17:100][505]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 47396EAF523EA70708713D5C09C4C1B55FCDDC0E), compiling. 
+[2023.01.18-18.19.17:166][509]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.19.17:166][509]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.19.17:166][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.19.17:166][509]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.19.18:491][599]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.19.18:917][599]LogMaterial: Display: Missing cached shadermap for Preview:M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 2AAE54DAC6696B1FF8FCED53FDB0C62D9BA26DE5), compiling. 
+[2023.01.18-18.19.18:935][599]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D25467062A3CEEDAD61AD7F886FF0ACE25AE64E8), compiling. 
+[2023.01.18-18.19.18:947][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.18-18.19.19:155][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.18-18.19.19:287][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.19.19:292][599]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.19.19:292][599]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster97DA631C45431F3583FAF6BC4CDCA6C5.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.19.19:310][599]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.19.19:310][599]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.19.19:311][599]MaterialEditorStats: Base pass shader: 164 instructions
+[2023.01.18-18.19.19:311][599]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.19.19:311][599]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.19.19:311][599]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.19.19:311][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.19.19:311][599]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.19.27:174][173]LogSlate: Window 'GT_Default' being destroyed
+[2023.01.18-18.19.27:181][173]LogSlate: Window 'GT_Default' being destroyed
+[2023.01.18-18.19.27:202][173]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-18.19.27:202][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-18.19.27:256][173]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-18.19.27:256][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-18.19.37:725][147]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.19.37:730][147]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F80B97CE614576871FE190BCB694E502A33D57A), compiling. 
+[2023.01.18-18.19.37:763][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-18.19.37:843][147]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 83B0D68A198D5466B0F8560E475341B0D37CD549), compiling. 
+[2023.01.18-18.19.37:849][147]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 56EE2B2A1BFFA1ED476646356B9F8447EDFFA58A), compiling. 
+[2023.01.18-18.19.37:852][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D5ECCBC4BB8B0AA1B21C6117BD7ACE4A01922939), compiling. 
+[2023.01.18-18.19.37:854][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 58A15F53A4A72F49271C1F8E4FE5F4FA459BC0C7), compiling. 
+[2023.01.18-18.19.37:855][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 5813C0190C74252CC260C8CCB8ADC3CF85B021C1), compiling. 
+[2023.01.18-18.19.37:857][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 176B036DB9A3BDB92AF576DDE311C6AE77660B12), compiling. 
+[2023.01.18-18.19.37:858][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F14637172D526E9E75E207C19D8059D0C6782B09), compiling. 
+[2023.01.18-18.19.37:859][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 06EA913B1C921C6CA15DD365C2B758535AB028E7), compiling. 
+[2023.01.18-18.19.37:861][147]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B21420969DF4E0AA4A638EAE8767AEE70580223), compiling. 
+[2023.01.18-18.19.37:882][147]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.19.37:882][147]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.19.37:882][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.19.37:882][147]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.19.37:889][147]LogViewport: Scene viewport resized to 279x294, mode Windowed.
+[2023.01.18-18.19.39:028][184]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.19.39:028][184]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.19.39:028][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.19.39:028][184]MaterialEditorStats: Shader Count: 1
+[2023.01.18-18.19.39:720][206]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.19.39:720][206]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.19.39:720][206]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.19.39:720][206]MaterialEditorStats: Shader Count: 7
+[2023.01.18-18.20.00:646][575]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/almig/Downloads/kenney_foliagesprites/PNG/Flat/sprite_0040.png)
+[2023.01.18-18.20.00:660][575]LogTexture: Display: Building textures: /Game/t017849k/Foliage/sprite_0040.sprite_0040 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.18-18.20.03:741][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.18-18.20.03:744][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_ArtTesting' took 0.013
+[2023.01.18-18.20.03:744][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/t017849k/Foliage/sprite_0040] ([1] browsable assets)...
+[2023.01.18-18.20.03:746][803]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/t017849k/Foliage/sprite_0040.sprite_0040]
+[2023.01.18-18.20.03:746][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/t017849k/Foliage/sprite_0040]
+[2023.01.18-18.20.03:748][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/t017849k/Foliage/sprite_0040_Auto5
+[2023.01.18-18.20.03:748][803]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/sprite_0040_Auto5BF3A5AF9477A915360C3188BB5374897.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Autosaves/Game/t017849k/Foliage/sprite_0040_Auto5.uasset'
+[2023.01.18-18.20.03:752][803]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.01.18-18.20.04:213][840]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.20.04:213][840]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.18-18.20.04:213][840]LogShaderCompilers: Display: Total job queries 2495, among them cache hits 1118 (44.81%)
+[2023.01.18-18.20.04:213][840]LogShaderCompilers: Display: Tracking 1134 distinct input hashes that result in 567 distinct outputs (50.00%)
+[2023.01.18-18.20.04:213][840]LogShaderCompilers: Display: RAM used: 1.64 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Shaders Compiled: 262
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Jobs assigned 1134, completed 1134 (100.00%)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Average time worker was idle: 243.30 s
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 1.53 s
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Job execution time: average 14.10 s, max 58.98 s
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Job life time (pending + execution): average 14.15 s, max 58.99
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 558.03 s
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Jobs were issued in 464 batches (292 local, 172 distributed), average 2.44 jobs/batch (1.00 jobs/local batch. 4.90 jobs/distributed batch)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   35 times, average 1.12 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   53 times, average 1.00 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   43 times, average 0.98 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   53 times, average 0.97 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   35 times, average 0.96 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.87% of total time (compiled   53 times, average 1.00 sec, max 1.66 sec, min 0.50 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.67% of total time (compiled   53 times, average 0.97 sec, max 1.70 sec, min 0.48 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.29% of total time (compiled   43 times, average 0.98 sec, max 1.63 sec, min 0.50 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 5.85% of total time (compiled   35 times, average 1.12 sec, max 1.67 sec, min 0.55 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.99% of total time (compiled   35 times, average 0.96 sec, max 1.44 sec, min 0.56 sec)
+[2023.01.18-18.20.04:214][840]LogShaderCompilers: Display: ================================================
+[2023.01.18-18.20.07:973][ 98]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EF642738D5195C71DBFF653BD6719C02CF91E2B), compiling. 
+[2023.01.18-18.20.07:977][ 98]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 727603CC651C0B1206034D13EE59AD7AE7121C04), compiling. 
+[2023.01.18-18.20.07:985][ 98]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 13F63913A469EAAE02A261366FD9C25859106B5B), compiling. 
+[2023.01.18-18.20.07:994][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.20.07:994][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.20.07:994][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.20.07:994][ 98]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.20.09:128][138]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.20.09:761][138]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 726BD27B051C86E9974F92872039C8CC419A694B), compiling. 
+[2023.01.18-18.20.09:794][138]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: A187E647BFF920FE6E9A46A35880B81163BFD7C6), compiling. 
+[2023.01.18-18.20.09:818][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.01.18-18.20.13:262][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.18-18.20.15:445][138]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.20.45:858][138]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001030s (30.429372s overbudget)
+[2023.01.18-18.20.45:899][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.20.45:904][138]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.20.45:905][138]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster84A670624D7C042502E41F83B0865C25.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.20.45:917][138]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.20.45:917][138]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.20.45:918][138]MaterialEditorStats: Base pass shader: 164 instructions
+[2023.01.18-18.20.45:918][138]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.20.45:918][138]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.20.45:918][138]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.20.45:918][138]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.20.45:918][138]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.21.01:464][343]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BFFFA4FCF0EAA4E9E1225DA77C78BA54CCED3566), compiling. 
+[2023.01.18-18.21.01:468][343]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.21.01:469][343]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.01:469][343]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.01:469][343]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.21.01:531][345]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.21.01:531][345]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.01:531][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.01:531][345]MaterialEditorStats: Shader Count: 10
+[2023.01.18-18.21.05:837][693]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 42E78D9DA2BEDD8B388ED40755A36F3746A3DFF2), compiling. 
+[2023.01.18-18.21.05:843][693]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B9EA3CE2AA9F90080BA34D76D14616EF270F52F), compiling. 
+[2023.01.18-18.21.05:852][693]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.21.05:852][693]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.05:852][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.05:852][693]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.21.05:953][696]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.21.05:953][696]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.05:954][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.05:954][696]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.21.07:425][802]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 08E47E64D44291AA0D25D703A78D1035152D1C15), compiling. 
+[2023.01.18-18.21.07:429][802]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.21.07:429][802]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.07:429][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.07:429][802]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.21.07:482][804]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.21.07:482][804]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.07:482][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.07:482][804]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.21.09:059][918]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FDCE5735ACEB251B1106EEDB268339ADBDBA09A), compiling. 
+[2023.01.18-18.21.09:072][918]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.21.09:072][918]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.09:072][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.09:072][918]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.21.09:158][921]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.21.09:158][921]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.09:158][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.09:158][921]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.21.10:619][ 34]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 494B10626380039683FFEC607BEADCDA011B5D00), compiling. 
+[2023.01.18-18.21.10:622][ 34]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D9F25ABD08AE6F387B02A5A59B6BEB7E594D58F3), compiling. 
+[2023.01.18-18.21.10:629][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.21.10:629][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.10:629][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.10:629][ 34]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.21.11:849][ 83]MaterialEditorStats: Texture samplers: 1/16
+[2023.01.18-18.21.11:849][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.11:849][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.11:849][ 83]MaterialEditorStats: Shader Count: 2
+[2023.01.18-18.21.12:648][111]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.21.12:648][111]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.12:648][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.12:648][111]MaterialEditorStats: Shader Count: 7
+[2023.01.18-18.21.20:694][662]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6BC12B7710E9C2E6ACE9E05BCEA4CFB68947359A), compiling. 
+[2023.01.18-18.21.20:704][662]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FA06ACCCFF976DB6319152D6AB39B5A77306DD16), compiling. 
+[2023.01.18-18.21.20:748][665]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.21.21:318][665]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AA387F9B7ED6346766F9F667AE872188630A1A2), compiling. 
+[2023.01.18-18.21.21:349][665]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FE066F92AF91C199D2EF9F31660C57EF752DC839), compiling. 
+[2023.01.18-18.21.21:367][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.18-18.21.25:121][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.18-18.21.27:297][665]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.01.18-18.21.52:955][665]LogDerivedDataCache: C:/Users/almig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.184 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.18-18.21.57:617][665]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003429s (30.326981s overbudget)
+[2023.01.18-18.21.57:660][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.21.57:666][665]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.21.57:667][665]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMaster1D98C2B74C4F377CE958BE99185F5A5B.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.21.57:683][665]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.21.57:683][665]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.21.57:686][665]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.01.18-18.21.57:686][665]MaterialEditorStats: Base pass vertex shader: 314 instructions
+[2023.01.18-18.21.57:686][665]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.21.57:686][665]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.21.57:686][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.21.57:686][665]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.22.03:918][132]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 88D46B5F6624A9ED0493DB82922BEB50E56BD5E3), compiling. 
+[2023.01.18-18.22.03:921][132]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 12E7535D236EDD3DF3AC9EB85A5D2DD5F2A50F03), compiling. 
+[2023.01.18-18.22.03:923][132]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.22.03:923][132]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.22.03:923][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.22.03:923][132]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.22.03:978][134]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.22.03:978][134]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.22.03:978][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.22.03:978][134]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.22.07:467][386]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 58420CAEA7D13CE8FF4462E3DD508E85B92CB541), compiling. 
+[2023.01.18-18.22.07:470][386]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EABD30D8FA5F837CBEB9B7C4FD985733C8B5DC65), compiling. 
+[2023.01.18-18.22.07:477][386]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EAA87AF6E16160D2E14944486E189BE5E01823EB), compiling. 
+[2023.01.18-18.22.07:486][386]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.18-18.22.07:486][386]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.22.07:486][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.22.07:486][386]MaterialEditorStats: Shader Count: 0
+[2023.01.18-18.22.07:574][389]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.18-18.22.07:574][389]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.22.07:574][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.22.07:574][389]MaterialEditorStats: Shader Count: 12
+[2023.01.18-18.22.09:091][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.18-18.22.12:062][491]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.18-18.22.13:423][583]LogMaterialEditor: Applying material M_TreeMaster
+[2023.01.18-18.22.13:844][583]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F9191AE6263C221631AA244B0AC6CB6DFFC338B5), compiling. 
+[2023.01.18-18.22.13:861][583]LogMaterial: Display: Missing cached shadermap for M_TreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FF15ED0FE9664CFF674AB557FB1F644D555C4C24), compiling. 
+[2023.01.18-18.22.13:870][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.18-18.22.14:089][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.18-18.22.14:761][626]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.22.14:911][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.22.14:918][626]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.22.14:918][626]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterD86548A8419C5FDB388FA3AA4A1EC6B1.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.22.14:932][626]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.22.14:932][626]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.22.14:933][626]MaterialEditorStats: Base pass shader: 164 instructions
+[2023.01.18-18.22.14:933][626]MaterialEditorStats: Base pass vertex shader: 313 instructions
+[2023.01.18-18.22.14:933][626]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.18-18.22.14:934][626]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2023.01.18-18.22.14:934][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.18-18.22.14:934][626]MaterialEditorStats: Shader Count: 70
+[2023.01.18-18.22.16:993][768]LogMaterialEditor: Saving and Compiling material M_TreeMaster
+[2023.01.18-18.22.17:024][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/t017849k/Foliage/M_TreeMaster" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset" SILENT=true
+[2023.01.18-18.22.17:030][768]LogSavePackage: Moving output files for package: /Game/t017849k/Foliage/M_TreeMaster
+[2023.01.18-18.22.17:030][768]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/M_TreeMasterBF3BD8684CE0E0297D0FFC9A8F90D651.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/t017849k/Foliage/M_TreeMaster.uasset'
+[2023.01.18-18.22.17:048][768]AssetCheck: New page: Asset Save: M_TreeMaster
+[2023.01.18-18.22.17:048][768]LogContentValidation: Display: Validating Material /Game/t017849k/Foliage/M_TreeMaster.M_TreeMaster
+[2023.01.18-18.22.18:950][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.18-18.22.19:749][902]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.18-18.22.19:765][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.18-18.22.19:771][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.18-18.22.19:776][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.01.18-18.22.22:553][ 92]LogSlate: Window 'M_TreeMaster' being destroyed
+[2023.01.18-18.22.22:570][ 92]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-18.22.22:571][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-18.23.42:504][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_ArtTesting" FILE="../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/Map_ArtTesting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.18-18.23.42:511][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.18-18.23.42:568][575]LogSavePackage: Moving output files for package: /Game/Maps/Map_ArtTesting
+[2023.01.18-18.23.42:568][575]LogSavePackage: Moving '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Saved/Map_ArtTesting987890AD4E4016BB6DF148B8F60770D5.tmp' to '../../../../../Uni/Collab/Get-Off-My-Lawn/GetOffMyLawn/Content/Maps/Map_ArtTesting.umap'
+[2023.01.18-18.23.42:589][575]AssetCheck: New page: Asset Save: Map_ArtTesting
+[2023.01.18-18.23.42:589][575]LogContentValidation: Display: Validating World /Game/Maps/Map_ArtTesting.Map_ArtTesting
+[2023.01.18-18.23.43:681][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms

@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "{D2023BCD-49BF-4A9C-174B-0989FF117BF4}",
+=======
+	"EngineAssociation": "{32B183D9-4945-1490-27F3-058F0F283BC6}",
+>>>>>>> parent of 74244744... bush
 	"Category": "",
 	"Description": "",
 	"Plugins": [

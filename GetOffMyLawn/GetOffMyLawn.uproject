@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "{9F420C36-4340-75C0-1F0A-80A0730D1591}",
+=======
+	"EngineAssociation": "{3374383F-444C-98B6-9806-B4B399063CF5}",
+>>>>>>> parent of bc97fd92... bangin
 	"Category": "",
 	"Description": "",
 	"Plugins": [

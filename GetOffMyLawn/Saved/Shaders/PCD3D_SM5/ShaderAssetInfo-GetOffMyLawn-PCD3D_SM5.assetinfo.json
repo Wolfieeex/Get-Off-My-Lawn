@@ -60,8 +60,10 @@
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/W012557k/GroundEnemies/DungBeetle/default",
 				"/Game/Maps/NoahsTestAssets/01_-_Default",
-				"/Game/Blueprints/TowerPlacing/Materials/01_-_Default"
+				"/Game/Blueprints/Assets/Meshes/Default",
+				"/Game/Blueprints/Assets/Meshes/01_-_Default"
 			]
 		},
 		{
@@ -153,6 +155,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B6901DA7ECE2043973B377F85FDC1E666C5D0CA7",
+			"Assets": [
+				"/Game/Blueprints/Towers/Actors/CarrotRootmaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F921397DB3A0FF4D4004EE6EB12884D254EA6F52",
 			"Assets": [
 				"/Game/Blueprints/TowerPlacing/Materials/RadiusOutline"
@@ -162,6 +170,18 @@
 			"ShaderMapHash": "6617690C809AEFF38C609F22CED1BEA7104A7BF7",
 			"Assets": [
 				"/Game/Blueprints/TowerPlacing/Materials/FlashMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0D336BCE4DD0AD2DE766613FCE5A94A3C1DD5EDD",
+			"Assets": [
+				"/Game/Blueprints/TowerPlacing/Materials/01_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "282EC394C8D00F97BEDB74360937CE5C801AE06B",
+			"Assets": [
+				"/Game/Beam_Mat"
 			]
 		},
 		{
@@ -298,9 +318,55 @@
 			]
 		},
 		{
+			"ShaderMapHash": "705F3D9AFC040B15FE5FC30F06A2BD6C5599B7BE",
+			"Assets": [
+				"/Game/W012557k/NewFolder/Carrot_low_default_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "2F1DEE33B2B75D0A2202FA9724ECCFC2FE6178FA",
+			"Assets": [
+				"/Game/W012557k/GroundEnemies/SnailEnemy+AnimBP/Slug/Slug_low_Slug_BaseColor_Mat",
+				"/Game/W012557k/GroundEnemies/SnailEnemy+AnimBP/Snail_low_Snail_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8C79304048EB2C5DD2CD2D50FB3E4889E7B377",
+			"Assets": [
+				"/Game/W012557k/character/NewFolder/NewFolder/Staff_low_Staff_BaseColor_Utility_-_sRGB_-_Texture_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5C55CFA82F0D16E0CCA0912D66B1A0704CF7B485",
+			"Assets": [
+				"/Game/W012557k/character/NewFolder/5_Wizard_BaseColor_Utility_-_sRGB_-_Texture_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
 			"Assets": [
 				"/Game/W012557k/character/CharacterStuff/Ch39_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
+			"Assets": [
+				"/Game/t017849k/StaticMeshes/WizardHouseUE5/WizardHouseUE5/Tower/Tower",
+				"/Game/ConnorMinns/Assets/Mat/propCrate_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6F16A72ACCE5F999747C4CA3C7D55C155728FBC2",
+			"Assets": [
+				"/Game/t017849k/StaticMeshes/WizardHouseUE5/WizardHouseUE5/RoofStuff/Roof"
+			]
+		},
+		{
+			"ShaderMapHash": "3723731CBFF628C024BA4A940405CE36D0044ECB",
+			"Assets": [
+				"/Game/t017849k/StaticMeshes/WizardHouseUE5/WizardHouseUE5/House2/House2",
+				"/Game/t017849k/StaticMeshes/WizardHouseUE5/WizardHouseUE5/House1/House1",
+				"/Game/t017849k/StaticMeshes/WizardHouseUE5/WizardHouseUE5/Cobble/Cobble_Proper"
 			]
 		},
 		{
@@ -310,25 +376,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CA580E433FE74D75403DA071A064A79A68C3E2EC",
+			"ShaderMapHash": "AAAD372725A10120BF511728A5300C45B48D7D23",
 			"Assets": [
 				"/Game/t017849k/SkeletalMeshes/Mushroom/MushroomUnwrap"
 			]
 		},
 		{
-			"ShaderMapHash": "AECD55EBB6F8A37091BC6FE3D39F38C3BB9D5843",
-			"Assets": [
-				"/Game/t017849k/SkeletalMeshes/Flytrap/VATM_MushroomPotMat"
-			]
-		},
-		{
-			"ShaderMapHash": "C0AD6B673C8D5AB71D435EC291116261A9313EDE",
-			"Assets": [
-				"/Game/t017849k/SkeletalMeshes/Flytrap/VATM_PotMat"
-			]
-		},
-		{
-			"ShaderMapHash": "09D8101C3C0CDC1C2CFFF1A7EC9F2BD6E587D632",
+			"ShaderMapHash": "9C3C2929C9A68D202F1D05AD20F3AB50C88CBAA9",
 			"Assets": [
 				"/Game/t017849k/SkeletalMeshes/Flytrap/M_Flytrap"
 			]
@@ -342,9 +396,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9809658C4D40D4D4B3491A736312415567652D55",
+			"ShaderMapHash": "4233DC490DE6DBF61612384939605710B23159D0",
 			"Assets": [
 				"/Game/t017849k/SkeletalMeshes/Dragonfly/assets"
+			]
+		},
+		{
+			"ShaderMapHash": "F8C1FF396D573ADE3E54BE36A34B0393AAF0A620",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Carrot/default"
 			]
 		},
 		{
@@ -403,16 +463,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
-			"Assets": [
-				"/Game/ConnorMinns/Assets/Mat/propCrate_BaseColor_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "0B6AF89748873305631ACE9CF61E131CC225C649",
 			"Assets": [
 				"/Game/Blueprints/TowerPlacing/Materials/ResTest_Mat",
 				"/Game/Blueprints/TowerPlacing/Materials/RangeOutline_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1C9D9E30653C41E09CB75D7DC5C7E00737764539",
+			"Assets": [
+				"/Game/Blueprints/Assets/Textures/Barricade_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "825C387B11C7ED7A10F1DB234566DD3E2BC90DF4",
+			"Assets": [
+				"/Game/HealTexture_Mat"
 			]
 		},
 		{
@@ -455,6 +521,12 @@
 			"ShaderMapHash": "C24028EC4A1426CF2DA677CF28E4BF8E5AFC9520",
 			"Assets": [
 				"/Game/t017849k/Particles/Seed/M_SeedsDancing"
+			]
+		},
+		{
+			"ShaderMapHash": "5E40975879A3E92F9C5D79BB32E172AEE69178C8",
+			"Assets": [
+				"/Game/t017849k/Materials/Shaders/M_Water"
 			]
 		},
 		{
@@ -512,21 +584,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "224CD5A3E8AADD4A3E88FA8A021CC355C0A0C402",
-			"Assets": [
-				"/Game/t017849k/SkeletalMeshes/Flytrap/VATMI_MushroomPotMat"
-			]
-		},
-		{
-			"ShaderMapHash": "190128016D1B8C60EDE8648D574C71A8426F3F07",
-			"Assets": [
-				"/Game/t017849k/SkeletalMeshes/Flytrap/VATMI_PotMat"
-			]
-		},
-		{
 			"ShaderMapHash": "1AA7A6DA0DE2C01F17416CEAB2551BC615F8EA32",
 			"Assets": [
 				"/Game/t017849k/StaticMeshes/M_Crystal"
+			]
+		},
+		{
+			"ShaderMapHash": "F4E1BB9B1DB739CAE156A9FE00F1A480F4BC009C",
+			"Assets": [
+				"/Game/t017849k/Particles/Explosion/M_Explosion"
 			]
 		},
 		{
@@ -539,6 +605,12 @@
 			"ShaderMapHash": "0E06BE6518007A574DE4B0EEED078F6CDB1675EC",
 			"Assets": [
 				"/Game/t017849k/Foliage/Grass/M_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
 			]
 		},
 		{
@@ -566,15 +638,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5C5FE0C665A45106705C11BAB60D680030B0C18F",
+			"ShaderMapHash": "3D55933DF62B0E8DE40FF417FA5BEAD6B0F1EBB4",
 			"Assets": [
-				"/Game/t017849k/Foliage/M_TreeMaster"
+				"/Game/d017162l/Materials/M_Projectile"
 			]
 		},
 		{
-			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
+			"ShaderMapHash": "5C5FE0C665A45106705C11BAB60D680030B0C18F",
 			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+				"/Game/t017849k/Foliage/M_TreeMaster"
 			]
 		},
 		{
@@ -634,10 +706,46 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A77BC3BBEB693127C4C822F655732B2250158C0D",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Flytrap/VATM_PotMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B00F798FF188906747B44CFF1F27882E90239682",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Flytrap/VATM_MushroomPotMat"
+			]
+		},
+		{
+			"ShaderMapHash": "9EA45C963D2D144B2A5FC80283587B13B8854B5C",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Flytrap/VATM_CarrotPot"
+			]
+		},
+		{
 			"ShaderMapHash": "C145D2E6C8ED4E31B06F436B1233CC96D9412949",
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "91D4972B40F86E2F08610993764742A97529AABA",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Flytrap/VATMI_PotMat"
+			]
+		},
+		{
+			"ShaderMapHash": "EB1A38AC4A949FE0A0895CD1D661836393B1E6E6",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Flytrap/VATMI_MushroomPotMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0596B43B408D9C0A135960A4CC4EE5DFC5628BD7",
+			"Assets": [
+				"/Game/t017849k/SkeletalMeshes/Flytrap/VATMI_CarrotPot"
 			]
 		},
 		{
@@ -649,43 +757,61 @@
 		{
 			"ShaderMapHash": "E518370A93F32665D84343AB469091A0F132C85D",
 			"Assets": [
-				"/Game/Maps/Map_ArtTesting"
-			]
-		},
-		{
-			"ShaderMapHash": "32143F6F628543A4BFCE6081ACD856AE89BB920B",
-			"Assets": [
-				"/Game/Maps/Map_ArtTesting"
-			]
-		},
-		{
-			"ShaderMapHash": "036789DB4B96F3F80C2AE36B372E2FE6AB161FDC",
-			"Assets": [
-				"/Game/Maps/Map_ArtTesting"
+				"/Game/Maps/MainMenu",
+				"/Game/Maps/Map_ArtTesting",
+				"/Game/ConnorMinns/Blockout2v2",
+				"/Game/ConnorMinns/Blockout1",
+				"/Game/ConnorMinns/Level_Tutorial"
 			]
 		},
 		{
 			"ShaderMapHash": "0A6E10859EE1E5760464D91AB9B0B458B45C95D7",
 			"Assets": [
+				"/Game/Maps/MainMenu",
+				"/Game/ConnorMinns/Blockout2v2",
+				"/Game/ConnorMinns/Blockout1",
 				"/Game/ConnorMinns/Level_Tutorial"
 			]
 		},
 		{
 			"ShaderMapHash": "101D8CDCC129E6AC68AF9C3399B67646E22C0032",
 			"Assets": [
+				"/Game/Maps/MainMenu",
+				"/Game/ConnorMinns/Blockout1",
+				"/Game/ConnorMinns/Level_Tutorial"
+			]
+		},
+		{
+			"ShaderMapHash": "32143F6F628543A4BFCE6081ACD856AE89BB920B",
+			"Assets": [
+				"/Game/Maps/MainMenu",
+				"/Game/Maps/Map_ArtTesting",
+				"/Game/ConnorMinns/Blockout2v2",
+				"/Game/ConnorMinns/Blockout1",
 				"/Game/ConnorMinns/Level_Tutorial"
 			]
 		},
 		{
 			"ShaderMapHash": "DEE2E9474DEC86A929ED43CCB3AE24CA6AD6C4B5",
 			"Assets": [
+				"/Game/Maps/MainMenu",
+				"/Game/ConnorMinns/Blockout1",
 				"/Game/ConnorMinns/Level_Tutorial"
 			]
 		},
 		{
 			"ShaderMapHash": "C3E6C8044F646C375A9162773C508EB5C3DECF70",
 			"Assets": [
+				"/Game/Maps/MainMenu",
+				"/Game/ConnorMinns/Blockout2v2",
 				"/Game/ConnorMinns/Level_Tutorial"
+			]
+		},
+		{
+			"ShaderMapHash": "036789DB4B96F3F80C2AE36B372E2FE6AB161FDC",
+			"Assets": [
+				"/Game/Maps/Map_ArtTesting",
+				"/Game/ConnorMinns/Blockout2v2"
 			]
 		},
 		{
